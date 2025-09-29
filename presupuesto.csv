@@ -1,0 +1,777 @@
+﻿Año,AREA,Suma de Devengado,Descripción,PROG,UE
+2022,Ministerio de Desarrollo Humano,"$ 635325374,49",Urbanizacion Barrio Padre Carlos Mugica,26,489
+2023,Ministerio de Desarrollo Humano,"$ 1411747787,9",Upe Urbanizacion Barrio Padre Carlos Mugica,26,489
+2024,Ministerio de Desarrollo Humano,"$ 5064761064,01",Upe Urbanizacion Barrio Padre Carlos Mugica,26,489
+2022,Jefatura De Gobierno,"$ 72233471,44",Upe Dialogo Social,303,7191
+2023,Jefatura De Gobierno,"$ 74432482,48",Upe Dialogo Social,303,7191
+2022,Ministerio De Espacio Publico,"$ 240409466,93","Tecnica, Administrativa Y Legal",23,8013
+2024,Ministerio De Espacio Publico,"$ 1741632739,5","Tecnica, Administrativa Y Legal",23,8013
+2022,Ministerio de Educacion,"$ 337829648,79",Subsidio A Cooperadoras Escolares,52,582
+2023,Ministerio de Educacion,"$ 750046607,67",Subsidio A Cooperadoras Escolares,52,582
+2024,Ministerio de Educacion,$ 2184969972,Subsidio A Cooperadoras Escolares,52,3148
+2024,Ministerio de Educacion,"$ 10265970641,72",Sistemas De Gestion Escolar,86,3150
+2022,Ministerio De Salud,"$ 590069727,93",Sistemas Alternativos A La Institucionalizacion,42,451
+2023,Ministerio De Salud,"$ 699183368,78",Sistemas Alternativos A La Institucionalizacion,42,451
+2024,Jefatura De Gobierno,$ 2860361498,Sistemas Alternativos A La Institucionalizacion,52,142
+2024,Ministerio de Educacion,"$ 331446612,21",Sistema De Formacion Docente,89,3149
+2022,Ministerio De Salud,"$ 3345630373,39",Sistema De Atencion Medica De Emergencia,49,449
+2023,Ministerio De Salud,"$ 8621351433,3",Sistema De Atencion Medica De Emergencia,49,449
+2024,Ministerio De Salud,"$ 27627854927,72",Sistema De Atencion Medica De Emergencia,49,449
+2024,Ministerio De Espacio Publico,"$ 19946791334,79",Servicios Mortuorios,130,3147
+2022,Ministerio De Espacio Publico,"$ 94470569319,24",Servicios De Higiene Urbana,52,8737
+2024,Ministerio De Espacio Publico,"$ 779266530327,27",Servicios De Higiene Urbana,52,8737
+2022,Jefatura De Gobierno,"$ 649501886,18",Señal Am Y Fm,51,2500
+2023,Jefatura De Gobierno,"$ 1578955481,34",Señal Am Y Fm,51,2500
+2023,Ministerio De Salud,"$ 259474610,47",Salud Comunitaria-Centros De Salud,71,4004
+2023,Ministerio De Salud,"$ 730063712,22",Salud Comunitaria-Centros De Salud,71,4005
+2023,Ministerio De Salud,"$ 1059464762,21",Salud Comunitaria-Centros De Salud,71,4006
+2023,Ministerio De Salud,"$ 900165759,8",Salud Comunitaria-Centros De Salud,71,4007
+2023,Ministerio De Salud,"$ 842918063,51",Salud Comunitaria-Centros De Salud,71,4008
+2023,Ministerio De Salud,"$ 372481438,31",Salud Comunitaria-Centros De Salud,71,4009
+2023,Ministerio De Salud,"$ 492882774,69",Salud Comunitaria-Centros De Salud,71,4010
+2023,Ministerio De Salud,"$ 5973439,9",Salud Comunitaria-Centros De Salud,71,4017
+2024,Ministerio De Salud,"$ 1779061168,88",Salud Comunitaria-Centros De Salud,71,4004
+2024,Ministerio De Salud,"$ 3085767807,92",Salud Comunitaria-Centros De Salud,71,4005
+2024,Ministerio De Salud,"$ 4041756720,25",Salud Comunitaria-Centros De Salud,71,4006
+2024,Ministerio De Salud,"$ 3313779657,77",Salud Comunitaria-Centros De Salud,71,4007
+2024,Ministerio De Salud,"$ 3965545191,47",Salud Comunitaria-Centros De Salud,71,4008
+2024,Ministerio De Salud,"$ 2230099268,66",Salud Comunitaria-Centros De Salud,71,4009
+2024,Ministerio De Salud,"$ 2599044860,06",Salud Comunitaria-Centros De Salud,71,4010
+2024,Ministerio De Salud,"$ 119082008,09",Salud Comunitaria-Centros De Salud,71,4017
+2022,Ministerio De Salud,"$ 102911785,63",Salud Comunitaria - Centros De Salud,71,4004
+2022,Ministerio De Salud,"$ 208800355,25",Salud Comunitaria - Centros De Salud,71,4005
+2022,Ministerio De Salud,"$ 327399269,37",Salud Comunitaria - Centros De Salud,71,4006
+2022,Ministerio De Salud,"$ 346978443,52",Salud Comunitaria - Centros De Salud,71,4007
+2022,Ministerio De Salud,"$ 334830131,66",Salud Comunitaria - Centros De Salud,71,4008
+2022,Ministerio De Salud,"$ 134331436,52",Salud Comunitaria - Centros De Salud,71,4009
+2022,Ministerio De Salud,"$ 160217881,91",Salud Comunitaria - Centros De Salud,71,4010
+2022,Ministerio De Salud,"$ 3187968,5",Salud Comunitaria - Centros De Salud,71,4017
+2022,Ministerio De Salud,"$ 485651016,35",Salud Comunitaria - Acumar,60,4012
+2022,Ministerio De Salud,"$ 975482388,94",Salud Comunitaria - Acumar,60,4013
+2022,Ministerio De Salud,"$ 1238453805,18",Salud Comunitaria - Acumar,60,4014
+2022,Ministerio De Salud,"$ 654129626,95",Salud Comunitaria - Acumar,60,4015
+2022,Ministerio De Salud,"$ 37530019,82",Salud Comunitaria - Acumar,60,4018
+2022,Ministerio De Salud,"$ 222671098,06",Salud Comunitaria - Acumar,60,4019
+2023,Ministerio De Salud,"$ 1485036227,14",Salud Comunitaria - Acumar,60,4012
+2023,Ministerio De Salud,"$ 2385369669,92",Salud Comunitaria - Acumar,60,4013
+2023,Ministerio De Salud,"$ 3104687928,94",Salud Comunitaria - Acumar,60,4014
+2023,Ministerio De Salud,"$ 1726530404,58",Salud Comunitaria - Acumar,60,4015
+2023,Ministerio De Salud,"$ 91668786,8",Salud Comunitaria - Acumar,60,4018
+2023,Ministerio De Salud,"$ 590453306,14",Salud Comunitaria - Acumar,60,4019
+2024,Ministerio De Salud,"$ 5306346931,56",Salud Comunitaria - Acumar,60,4012
+2024,Ministerio De Salud,"$ 8886020145,41",Salud Comunitaria - Acumar,60,4013
+2024,Ministerio De Salud,"$ 11204581165,91",Salud Comunitaria - Acumar,60,4014
+2024,Ministerio De Salud,"$ 6504758085,82",Salud Comunitaria - Acumar,60,4015
+2024,Ministerio De Salud,"$ 466171852,37",Salud Comunitaria - Acumar,60,4018
+2024,Ministerio De Salud,"$ 1886813471,23",Salud Comunitaria - Acumar,60,4019
+2022,Jefatura De Gobierno,"$ 59532552,96",Restauracion Ecologica Y Recomposicion Ambiental,311,7215
+2023,Jefatura De Gobierno,"$ 173780563,25",Restauracion Ecologica Y Recomposicion Ambiental,311,7215
+2024,Jefatura De Gobierno,"$ 48251018,05",Restauracion Ecologica Y Recomposicion Ambiental,87,3161
+2024,Jefatura De Gobierno,"$ 770269401,64",Representaciones De La Ciudad,105,3236
+2022,Jefatura De Gobierno,$ 0,Relaciones Federales Y Productivas,302,7190
+2024,Jefatura De Gobierno,"$ 451904410,33",Relaciones Con Los Cultos,115,3246
+2024,Jefatura De Gobierno,$ 0,Relacionamiento Internacional,111,3242
+2022,Ministerio De Espacio Publico,"$ 142689101,2",Regeneracion Urbana,15,2355
+2024,Ministerio De Espacio Publico,"$ 2250569258,49",Regeneracion Urbana,17,2355
+2022,Jefatura De Gobierno,"$ 6165187,38",Refuncionalizacion Del Autodromo De La Caba,47,9997
+2022,Ministerio de Desarrollo Humano,$ 71823899,Redes Por La Inclusion,39,1006
+2023,Ministerio de Desarrollo Humano,$ 248717876,Redes Por La Inclusion,39,1006
+2022,Ministerio de Desarrollo Humano,$ 11138605,Red De Empresa,85,1008
+2023,Ministerio de Desarrollo Humano,$ 58349672,Red De Empresa,85,1008
+2022,Ministerio De Salud,"$ 3956132376,29",Recursos Fisicos En Salud - Infraestructura,22,404
+2023,Ministerio De Salud,"$ 13102176834,52",Recursos Fisicos En Salud - Infraestructura,22,404
+2024,Ministerio De Salud,"$ 50276060758,64",Recursos Fisicos En Salud - Infraestructura,22,404
+2024,Ministerio de Desarrollo Humano,"$ 2475025831,52",Recuperacion De La Traza De La Ex-Au3,202,3600
+2022,Ministerio De Espacio Publico,"$ 3453990265,99",Reciclado Y Economia Circular,14,9733
+2023,Ministerio De Espacio Publico,"$ 7636886143,45",Reciclado Y Economia Circular,18,9733
+2024,Ministerio De Espacio Publico,"$ 24554560200,98",Reciclado Y Economia Circular,93,3138
+2022,Ministerio de Educacion,"$ 641704618,99",Proyectos Y Tecnologia Educativa,26,7340
+2023,Ministerio de Educacion,"$ 2051280468,68",Proyectos Y Tecnologia Educativa,26,7340
+2024,Ministerio de Educacion,"$ 673090340,83",Proyectos Y Tecnologia Educativa,85,3150
+2024,Jefatura De Gobierno,"$ 17503553,45",Proyeccion Internacional,113,3242
+2022,Jefatura De Gobierno,"$ 27635390,86",Proyeccion Estrategica,25,7353
+2023,Jefatura De Gobierno,"$ 80310714,16",Proyeccion Estrategica,25,7353
+2022,Ministerio De Salud,"$ 131841968,33",Proteccion E Inclusion,30,407
+2022,Jefatura De Gobierno,$ 0,Promocion Y Desarrollo Deportivo,82,8106
+2022,Ministerio De Salud,"$ 456895579,29",Promocion Y Cuidado De La Salud Del Niño,61,4001
+2023,Ministerio De Salud,"$ 1116782754,32",Promocion Y Cuidado De La Salud Del Niño,61,4001
+2024,Ministerio De Salud,"$ 3042363504,01",Promocion Y Cuidado De La Salud Del Niño,61,4001
+2023,Ministerio De Salud,"$ 1801319384,89",Promocion Social Y Bienestar,41,448
+2024,Jefatura De Gobierno,"$ 6631327332,74",Promocion Social Y Bienestar,51,141
+2022,Jefatura De Gobierno,"$ 68063822,28",Promocion Para El Desarrollo Sostenible,312,7216
+2023,Jefatura De Gobierno,"$ 621901493,22",Promocion Para El Desarrollo Sostenible,312,7216
+2024,Jefatura De Gobierno,"$ 559783559,26",Promocion Para El Desarrollo Sostenible,85,3160
+2024,Jefatura De Gobierno,"$ 390972017,22",Promocion De Derechos De Las Mujeres,39,2069
+2024,Jefatura De Gobierno,"$ 1634805112,28",Programas De Cooperacion Federal,104,3235
+2024,Jefatura De Gobierno,"$ 513340931,27",Programa Integral De Promocion De Los Derechos Lgbtiq,81,3169
+2024,Jefatura De Gobierno,"$ 111720316,59",Programa De Cambio Climatico,94,3170
+2022,Ministerio de Desarrollo Humano,"$ 89556,58",Programa A La Par,80,1010
+2023,Ministerio de Desarrollo Humano,"$ 145376,65",Programa A La Par,80,1010
+2022,Ministerio De Salud,"$ 663682550,18",Prevencion Y Proteccion En Salud Sexual,62,4001
+2023,Ministerio De Salud,"$ 1136594496,77",Prevencion Y Proteccion En Salud Sexual,62,4001
+2024,Ministerio De Salud,"$ 5047370883,91",Prevencion Y Proteccion En Salud Sexual,62,4001
+2022,Ministerio de Desarrollo Humano,"$ 647739202,98",Politicas Sociales En Adicciones,71,7012
+2023,Ministerio de Desarrollo Humano,"$ 1637738288,29",Politicas Sociales En Adicciones,71,7012
+2024,Jefatura De Gobierno,"$ 441767066,91",Politicas De Juventud,212,3167
+2022,Jefatura De Gobierno,"$ 65002231,11",Politicas De Infraestructura Verde Urbana Y Desarrollo Sostenible,309,7213
+2023,Jefatura De Gobierno,"$ 126725286,94",Politicas De Infraestructura Verde Urbana Y Desarrollo Sostenible,309,7213
+2024,Jefatura De Gobierno,"$ 13117808,47",Politicas De Infraestructura Verde Urbana Y Desarrollo Sostenible,84,3160
+2022,Ministerio De Salud,"$ 145194523,07",Politicas De Desarrollo Saludable,16,400
+2022,Jefatura De Gobierno,"$ 50131945,11",Politicas De Desarrollo Familiar,35,9992
+2023,Jefatura De Gobierno,"$ 95362106,18",Politicas De Desarrollo Familiar,35,9992
+2022,Ministerio de Desarrollo Humano,"$ 108640882,32",Politicas Alimentarias,40,1009
+2023,Ministerio de Desarrollo Humano,"$ 262636208,58",Politicas Alimentarias,40,1009
+2024,Jefatura De Gobierno,"$ 304449820,77",Politica Y Estrategia Ambiental,90,3170
+2022,Ministerio de Desarrollo Humano,"$ 31374270,36",Planificacion Y Control De Gestion,22,8017
+2023,Ministerio de Desarrollo Humano,"$ 95172497,4",Planificacion Y Control De Gestion,22,8017
+2022,Ministerio De Salud,"$ 6432988781,67",Planificacion Sanitaria Y Gestion En Red,88,7307
+2023,Ministerio De Salud,"$ 17171533504,64",Planificacion Sanitaria Y Gestion En Red,88,7307
+2022,Jefatura De Gobierno,"$ 24219131,73",Planificacion De La Calidad Institucional,54,2003
+2023,Jefatura De Gobierno,"$ 73987899,96",Planificacion De La Calidad Institucional,54,2003
+2022,Ministerio de Educacion,"$ 141033053,1",Planetario Galileo Galilei,25,7340
+2023,Ministerio de Educacion,"$ 265540320,48",Planetario Galileo Galilei,25,7340
+2024,Ministerio de Educacion,"$ 208792501,91",Planetario Galileo Galilei,84,3150
+2022,Ministerio de Educacion,"$ 1075340478,91",Planeamiento Educativo,19,7192
+2023,Ministerio de Educacion,"$ 2171508350,5",Planeamiento Educativo,19,7192
+2024,Ministerio de Educacion,"$ 5029345861,04",Planeamiento Educativo,83,3149
+2024,Ministerio De Espacio Publico,"$ 4205146350,89",Permisos Y Ferias,92,1018
+2024,Ministerio De Espacio Publico,"$ 4201285730,38",Parque De La Ciudad,27,3137
+2023,Ministerio De Espacio Publico,"$ 22935623524,2",Operacion Del Reciclado De Residuos Urbanos,19,8941
+2024,Ministerio De Espacio Publico,"$ 74834710846,13",Operacion Del Reciclado De Residuos Urbanos,97,3138
+2022,Ministerio De Espacio Publico,"$ 9454872761,2",Operacion De Reciclado De Residuos Urbanos,13,8941
+2022,Ministerio de Desarrollo Humano,"$ 4156743037,4","Obras, Proyectos Y Diseño Urbano",31,489
+2023,Ministerio de Desarrollo Humano,"$ 15300211102,09","Obras, Proyectos Y Diseño Urbano",31,489
+2024,Ministerio de Desarrollo Humano,"$ 8570986798,84","Obras, Proyectos Y Diseño Urbano",31,489
+2022,Ministerio De Espacio Publico,"$ 9620557686,91",Obras En Vias Peatonales,91,7166
+2024,Ministerio De Espacio Publico,"$ 67168632264,64",Obras En Vias Peatonales,91,7166
+2022,Ministerio De Espacio Publico,"$ 2181352460,41",Obras De Regeneracion Urbana,81,7008
+2024,Ministerio De Espacio Publico,"$ 9762233257,99",Obras De Regeneracion Urbana,26,2355
+2024,Ministerio De Espacio Publico,"$ 5856218732,21",Obras Comunales,124,1020
+2022,Ministerio De Espacio Publico,"$ 202560586,01",Monitoreo Y Sistemas,24,7164
+2024,Ministerio De Espacio Publico,"$ 1402690928,35",Monitoreo Y Sistemas,24,7164
+2022,Ministerio de Educacion,"$ 143527836,3",Mitigacion De Riesgos Y Ley De Escuelas Seguras,54,9764
+2023,Ministerio de Educacion,"$ 1451369436,53",Mitigacion De Riesgos Y Ley De Escuelas Seguras,54,9764
+2024,Ministerio de Educacion,"$ 2842616007,21",Mitigacion De Riesgos Y Ley De Escuelas Seguras,54,9764
+2022,Ministerio de Desarrollo Humano,"$ 4316560807,32",Mejoramiento De Vivienda,33,489
+2023,Ministerio de Desarrollo Humano,"$ 13295743502,35",Mejoramiento De Vivienda,33,489
+2024,Ministerio de Desarrollo Humano,"$ 9845099784,95",Mejoramiento De Vivienda,33,489
+2022,Ministerio De Espacio Publico,"$ 5543755080,21",Mantenimiento Y Optimizacion Del Alumbrado Publico,37,8807
+2023,Ministerio De Espacio Publico,"$ 20250641820,99",Mantenimiento Y Optimizacion Del Alumbrado Publico,37,8807
+2024,Ministerio De Espacio Publico,"$ 61684015880,35",Mantenimiento Y Optimizacion Del Alumbrado Publico,37,8807
+2022,Ministerio De Espacio Publico,"$ 5568939862,18",Mantenimiento De La Red Pluvial,79,2504
+2024,Ministerio De Espacio Publico,"$ 57572960356,82",Mantenimiento De La Red Pluvial,79,2504
+2024,Ministerio De Espacio Publico,"$ 18784329657,97",Intervenciones En El Espacio Publico Comunal,125,3144
+2022,Ministerio De Espacio Publico,$ 320265566,Intervenciones De Recuperacion Del Espacio Publico,121,7159
+2024,Ministerio De Espacio Publico,"$ 7013863595,94",Intervenciones De Recuperacion Del Espacio Publico,96,3140
+2024,Ministerio De Espacio Publico,"$ 1530804475,86",Intervenciones De Fiscalizacion En La Via Publica,95,3140
+2024,Ministerio De Espacio Publico,"$ 897241760,3",Intervencion En Vias Peatonales,90,7165
+2022,Ministerio De Espacio Publico,"$ 133336764,74",Intervencion En Las Vias Peatonales,90,7165
+2022,Ministerio de Desarrollo Humano,"$ 78622017,53",Intermediacion Laboral,36,1008
+2023,Ministerio de Desarrollo Humano,"$ 177204279,05",Intermediacion Laboral,36,1008
+2022,Jefatura De Gobierno,$ 0,Intercambio De Gestion,301,7189
+2022,Ministerio De Salud,"$ 364387706,53",Integracion Social De Adultos Mayores,41,448
+2022,Ministerio de Desarrollo Humano,"$ 108496437,25",Integracion Social,27,489
+2023,Ministerio de Desarrollo Humano,"$ 261624685,32",Integracion Social,27,489
+2024,Ministerio de Desarrollo Humano,"$ 155954148,52",Integracion Social,27,489
+2022,Ministerio de Desarrollo Humano,"$ 115799233,41",Integracion Economica,29,489
+2023,Ministerio de Desarrollo Humano,"$ 291615470,64",Integracion Economica,29,489
+2024,Ministerio de Desarrollo Humano,"$ 151125090,81",Integracion Economica,29,489
+2022,Ministerio De Salud,"$ 564506212,57",Instituto De Control De Zoonosis Luis Pasteur,45,445
+2023,Ministerio De Salud,"$ 1413966182,29",Instituto De Control De Zoonosis Luis Pasteur,45,445
+2024,Ministerio De Salud,"$ 4156521976,88",Instituto De Control De Zoonosis Luis Pasteur,45,445
+2022,Ministerio de Educacion,"$ 4320242766,68",Infraestructura Escolar,53,9761
+2023,Ministerio de Educacion,"$ 11332687375,47",Infraestructura Escolar,53,9761
+2024,Ministerio de Educacion,"$ 43244577986,61",Infraestructura Escolar,53,9761
+2022,Jefatura De Gobierno,"$ 156001629,63",Infraestructura Deportiva,86,9990
+2022,Ministerio de Desarrollo Humano,"$ 145669426,7",Inclusion De Personas Con Discapacidad,78,171
+2023,Ministerio de Desarrollo Humano,"$ 402411173,06",Inclusion De Personas Con Discapacidad,78,171
+2024,Jefatura De Gobierno,"$ 1690092912,65",Inclusion De Personas Con Discapacidad,42,3153
+2024,Ministerio De Espacio Publico,$ 0,Identidad Comunal,128,3144
+2022,Ministerio De Salud,"$ 5672891742,75",Hospital De Pediatria Juan Pedro Garrahan,86,401
+2023,Ministerio De Salud,"$ 12282404804,25",Hospital De Pediatria Juan Pedro Garrahan,86,401
+2024,Ministerio De Salud,"$ 42361461201,1",Hospital De Pediatria Juan Pedro Garrahan,86,401
+2022,Ministerio De Salud,"$ 3699238443,85",Hogar De Residencia Permanente Y Transitoria,40,451
+2023,Ministerio De Salud,"$ 10654006482,2",Hogar De Residencia Permanente Y Transitoria,40,451
+2024,Jefatura De Gobierno,"$ 32547761172,59",Hogar De Residencia Permanente Y Transitoria,53,142
+2022,Ministerio de Educacion,"$ 5774244532,79",Gestion Del Aprendizaje A Lo Largo De La Vida,48,7182
+2023,Ministerio de Educacion,"$ 15303091786,87",Gestion Del Aprendizaje A Lo Largo De La Vida,48,7182
+2024,Ministerio de Educacion,"$ 42304168727,26",Gestion Del Aprendizaje A Lo Largo De La Vida,48,7182
+2024,Jefatura De Gobierno,"$ 802770722,76","Gestion De Residuos, Areas Verdes Y Cuerpos De Agua",89,3162
+2022,Ministerio De Salud,"$ 459244809,08",Gestion De Redes Y Programas De Salud,64,4001
+2023,Ministerio De Salud,"$ 1284815905,52",Gestion De Redes Y Programas De Salud,64,4001
+2024,Ministerio De Salud,"$ 9186954568,26",Gestion De Redes Y Programas De Salud,64,4001
+2022,Ministerio De Espacio Publico,"$ 217884076,84",Gestion De Comunicacion,16,8729
+2024,Ministerio De Espacio Publico,"$ 2432512073,21",Gestion De Comunicacion,16,8729
+2024,Jefatura De Gobierno,"$ 390062909,91",Funcion Publica,45,3247
+2022,Ministerio de Desarrollo Humano,$ 0,Fortalecimientos De Comercios Populares,83,7408
+2022,Ministerio de Desarrollo Humano,"$ 67905387,8",Fortalecimiento Politicas Igualdad De Oportunidad,70,480
+2023,Ministerio de Desarrollo Humano,"$ 188420789,04",Fortalecimiento Politicas De Igualdad De Oportunidad,70,480
+2024,Jefatura De Gobierno,"$ 39855390,9",Fortalecimiento Politicas De Igualdad De Oportunidad,38,3249
+2022,Ministerio de Desarrollo Humano,"$ 403632759,97",Fortalecimiento De Vinculos,68,1010
+2023,Ministerio de Desarrollo Humano,"$ 891498320,85",Fortalecimiento De Vinculos,68,1010
+2024,Jefatura De Gobierno,"$ 2185456898,93",Fortalecimiento De La Diversidad Cultural,83,3238
+2022,Ministerio de Educacion,"$ 2095023813,77",Fortalecimiento De La Comunidad Educativa,21,586
+2023,Ministerio de Educacion,"$ 5560702365,63",Fortalecimiento De La Comunidad Educativa,21,586
+2024,Ministerio de Educacion,"$ 17294836910,07",Fortalecimiento De La Comunidad Educativa,74,3148
+2022,Ministerio de Desarrollo Humano,"$ 20676169240,65",Fortalecimiento A Grupos Comunitarios,67,1009
+2023,Ministerio de Desarrollo Humano,"$ 59801990860,24",Fortalecimiento A Grupos Comunitarios,67,1009
+2022,Ministerio de Desarrollo Humano,"$ 164641647,02",Formacion E Inclusion Para El Trabajo,46,7408
+2023,Ministerio de Desarrollo Humano,"$ 172709961,84",Formacion E Inclusion Para El Trabajo,46,7408
+2024,Ministerio de Desarrollo Humano,"$ 314554676,27",Formacion E Inclusion Para El Trabajo,46,7408
+2022,Ministerio de Desarrollo Humano,"$ 42898576,47",Fondes-Fondo De La Economia Social Ley N° 6376,37,1008
+2022,Ministerio de Desarrollo Humano,"$ 4918203,2",Fomento A La Comercializacion De La Economia Popular Y Social,38,7408
+2023,Ministerio de Desarrollo Humano,"$ 23390740,14",Fomento A La Comercializacion De La Economia Popular Y Social,38,7408
+2024,Ministerio de Desarrollo Humano,$ 80131110,Fomento A La Comercializacion De La Economia Popular Y Social,38,7408
+2022,Ministerio De Espacio Publico,"$ 474880132,04",Fiscalizacion De Vias Peatonales,92,7159
+2024,Ministerio De Espacio Publico,"$ 5195677262,37",Fiscalizacion De Vias Peatonales,94,3140
+2022,Ministerio De Salud,$ 892095000,Facturacion Y Cobranza De Los Efectores Publicos S.E.,23,401
+2023,Ministerio De Salud,$ 2131420600,Facturacion Y Cobranza De Los Efectores Publicos S.E.,23,401
+2022,Ministerio de Desarrollo Humano,$ 176400,Externacion Asistida,61,7012
+2023,Ministerio de Desarrollo Humano,$ 148500,Externacion Asistida,61,7012
+2024,Ministerio de Desarrollo Humano,"$ 5233460,26",Externacion Asistida,61,7012
+2022,Ministerio de Educacion,$ 1718750,Extension Y Capacitacion,30,586
+2023,Ministerio de Educacion,"$ 19246011,26",Extension Y Capacitacion,30,586
+2024,Ministerio de Educacion,"$ 591697826,25",Extension Y Capacitacion,76,3148
+2022,Jefatura De Gobierno,$ 0,Eventos Deportivos Y Recreativos,83,8106
+2022,Ministerio de Educacion,"$ 505030009,91",Evaluacion Integral De La Calidad Y Equidad Educativa,7,9762
+2023,Ministerio de Educacion,"$ 1484671975,24",Evaluacion Integral De La Calidad Y Equidad Educativa,46,9762
+2024,Ministerio de Educacion,"$ 4141711656,66",Evaluacion Integral De La Calidad Y Equidad Educativa,46,9762
+2022,Ministerio de Educacion,"$ 85891747,64",Estrategias Educativas,47,7182
+2023,Ministerio de Educacion,"$ 210490765,55",Estrategias Educativas,47,7182
+2024,Ministerio de Educacion,"$ 407846794,44",Estrategias Educativas,47,7182
+2022,Ministerio de Educacion,"$ 20994501,23",Escuelas Verdes,28,7340
+2023,Ministerio de Educacion,"$ 64990368,43",Escuelas Verdes,28,7340
+2024,Ministerio de Educacion,"$ 176879088,74",Escuelas Verdes,87,3148
+2022,Ministerio de Educacion,$ 0,Escuelas Normales Y Artisticas,45,7181
+2022,Ministerio de Educacion,"$ 9580064339,98",Escuelas Normales,41,586
+2023,Ministerio de Educacion,"$ 25122759507,35",Escuelas Normales,41,586
+2024,Ministerio de Educacion,"$ 75768912370,22",Escuelas Normales,88,3149
+2022,Ministerio de Educacion,"$ 853516070,44",Escuela De Maestros,72,7180
+2023,Ministerio de Educacion,"$ 2525847628,34",Escuela De Maestros,72,7180
+2024,Ministerio de Educacion,"$ 7568379572,22",Escuela De Maestros,81,3149
+2022,Ministerio de Educacion,"$ 1400454546,47",Escuela Abierta,23,586
+2023,Ministerio de Educacion,"$ 3761001698,65",Escuela Abierta,23,586
+2024,Ministerio de Educacion,"$ 11371737338,02",Escuela Abierta,75,3148
+2022,Ministerio de Educacion,"$ 763906555,72",Equipamiento Mobiliario,55,672
+2023,Ministerio de Educacion,"$ 3022765764,31",Equipamiento Mobiliario,55,672
+2024,Ministerio de Educacion,"$ 2185679903,47",Equipamiento Mobiliario,55,672
+2022,Ministerio De Salud,"$ 367114353,03",Ente Autarquico Instituto Del Trasplante,63,4002
+2023,Ministerio De Salud,"$ 872707155,68",Ente Autarquico Instituto Del Trasplante,63,4002
+2024,Ministerio De Salud,"$ 2870127933,05",Ente Autarquico Instituto Del Trasplante,63,4002
+2022,Ministerio de Educacion,"$ 15566061020,68",Educacion Tecnica,42,7342
+2023,Ministerio de Educacion,"$ 41648730991,37",Educacion Tecnica,42,7342
+2024,Ministerio de Educacion,"$ 125631849637,53",Educacion Tecnica,42,7342
+2022,Ministerio de Educacion,"$ 42309405149,51",Educacion Primaria,35,7342
+2023,Ministerio de Educacion,"$ 111058361362,3",Educacion Primaria,35,7342
+2024,Ministerio de Educacion,"$ 329492898137,78",Educacion Primaria,35,7342
+2022,Ministerio de Educacion,"$ 18470747515,2",Educacion Media,37,7342
+2023,Ministerio de Educacion,"$ 49553267612,46",Educacion Media,37,7342
+2024,Ministerio de Educacion,"$ 150843836595,3",Educacion Media,37,7342
+2022,Ministerio de Educacion,"$ 17274211927,99",Educacion Inicial,34,7342
+2023,Ministerio de Educacion,"$ 45724491216,18",Educacion Inicial,34,7342
+2024,Ministerio de Educacion,"$ 137522129850,91",Educacion Inicial,34,7342
+2022,Ministerio de Educacion,"$ 8432913986,82",Educacion Especial,36,7342
+2023,Ministerio de Educacion,"$ 22230992496,98",Educacion Especial,36,7342
+2024,Ministerio de Educacion,"$ 67752849965,19",Educacion Especial,36,7342
+2022,Ministerio de Educacion,"$ 1317748265,07",Educacion Digital,27,7340
+2023,Ministerio de Educacion,"$ 3560345344,28",Educacion Digital,27,7340
+2022,Ministerio de Educacion,"$ 4265183713,29",Educacion Del Adulto Y Del Adolescente,39,7342
+2023,Ministerio de Educacion,"$ 11173073126,85",Educacion Del Adulto Y Del Adolescente,39,7342
+2024,Ministerio de Educacion,"$ 33874542308,09",Educacion Del Adulto Y Del Adolescente,39,7342
+2022,Ministerio de Educacion,"$ 34351680718,09",Educacion De Gestion Privada,43,570
+2023,Ministerio de Educacion,"$ 90827174482,94",Educacion De Gestion Privada,43,570
+2024,Ministerio de Educacion,"$ 284058546236,45",Educacion De Gestion Privada,43,570
+2022,Ministerio de Educacion,"$ 1211042602,11",Educacion De Gestion Estatal,33,7342
+2023,Ministerio de Educacion,"$ 4518405436,93",Educacion De Gestion Estatal,33,7342
+2024,Ministerio de Educacion,"$ 19760136384,24",Educacion De Gestion Estatal,33,7342
+2022,Ministerio de Educacion,"$ 3828087212,97",Educacion Artistica,38,586
+2023,Ministerio de Educacion,"$ 10304489084,81",Educacion Artistica,38,586
+2024,Ministerio de Educacion,"$ 31005900012,87",Educacion Artistica,77,3149
+2022,Ministerio de Desarrollo Humano,"$ 1575271773,73",Economia Popular Y Social,35,7408
+2023,Ministerio de Desarrollo Humano,"$ 3720467999,41",Economia Popular Y Social,35,7408
+2024,Ministerio de Desarrollo Humano,"$ 10040856453,93",Economia Popular Y Social,35,7408
+2023,Ministerio de Desarrollo Humano,"$ 11449516,1","Deteccion, Proteccion Y Asistencia A Victimas De Trata De Personas-Ley 2781",32,480
+2024,Jefatura De Gobierno,$ 0,"Deteccion, Proteccion Y Asistencia A Victimas De Trata De Personas-Ley 2781",36,3151
+2022,Ministerio de Desarrollo Humano,"$ 433001,87","Deteccion, Proteccion Y Asist A Victimas De Trata Pers-Ley 2781",32,480
+2022,Ministerio de Desarrollo Humano,"$ 3146944085,36",Desarrollo Integral Infantil,84,1010
+2023,Ministerio de Desarrollo Humano,"$ 7452970770,32",Desarrollo Integral Infantil,84,1010
+2024,Ministerio de Desarrollo Humano,"$ 158004905,63",Desarrollo Institucional Y Territorial,19,3152
+2024,Jefatura De Gobierno,"$ 147832864,22",Desarrollo Institucional,108,3235
+2022,Ministerio de Desarrollo Humano,"$ 82316980,27",Desarrollo E Inclusion Social,34,1006
+2023,Ministerio de Desarrollo Humano,"$ 248718701,82",Desarrollo E Inclusion Social,34,1006
+2022,Jefatura De Gobierno,"$ 68693727,84",Desarrollo Comunal,20,229
+2024,Ministerio De Espacio Publico,$ 0,Desarrollo Comunal,127,3144
+2022,Jefatura De Gobierno,"$ 24209446,18",Deporte Social Y Desarrollo Deportivo,85,9989
+2024,Ministerio De Espacio Publico,"$ 14991906199,6",Cuidado Y Puesta En Valor De Espacios Verdes Y Arbolado Publico,129,3146
+2024,Ministerio de Desarrollo Humano,"$ 12444157685,81",Corporacion Buenos Aires Sur S.E,203,3601
+2022,Ministerio De Salud,"$ 11976900,62",Coordinacion Y Vinculacion Para Personas Mayores,43,4022
+2023,Ministerio De Salud,"$ 45838133,77",Coordinacion Y Vinculacion Para Personas Mayores,43,4022
+2022,Jefatura De Gobierno,"$ 85956153,68",Coordinacion Y Gestion Comunal,18,229
+2024,Ministerio De Espacio Publico,"$ 2811890146,25",Coordinacion Y Gestion Comunal,126,3144
+2024,Jefatura De Gobierno,"$ 313864616,13",Coordinacion De Relaciones Internacionales Y Cooperacion,112,3242
+2022,Jefatura De Gobierno,$ 0,Cooperacion Urbana Federal,300,7188
+2024,Jefatura De Gobierno,"$ 235609567,87",Cooperacion Con Provincias Y Municipios,75,3235
+2022,Ministerio De Espacio Publico,"$ 406813780,51",Control De Plagas,57,8737
+2024,Ministerio De Espacio Publico,"$ 7028101950,4",Control De Plagas,57,8737
+2022,Ministerio De Espacio Publico,"$ 68638038,42",Control De Gestion Y Reclamos,22,8750
+2024,Ministerio De Espacio Publico,"$ 455608148,89",Control De Gestion Y Reclamos,22,8750
+2022,Ministerio De Espacio Publico,"$ 740861683,47",Conservacion Del Paisaje Urbano,321,7406
+2024,Ministerio De Espacio Publico,"$ 9923931696,33",Conservacion Del Paisaje Urbano,321,7406
+2022,Jefatura De Gobierno,"$ 2292092832,83",Conservacion De La Biodiversidad Y Patrimonio Historico,70,7211
+2023,Jefatura De Gobierno,"$ 7375825952,47",Conservacion De La Biodiversidad Y Patrimonio Historico,70,7211
+2024,Jefatura De Gobierno,"$ 6508313550,24",Conservacion De La Biodiversidad Y Patrimonio Historico,88,3162
+2023,Ministerio de Desarrollo Humano,"$ 52130784,03",Consejo Social,20,1002
+2022,Ministerio de Desarrollo Humano,"$ 7516760445,07",Con Todo Derecho Ciudadania Porteña,41,1009
+2023,Ministerio de Desarrollo Humano,"$ 15265129633,1",Con Todo Derecho Ciudadania Porteña,41,1009
+2022,Ministerio de Educacion,"$ 261163134,86",Comision Del Registro Y Evaluacion De Antecedentes Profesionales,73,7180
+2023,Ministerio de Educacion,"$ 695922856,21",Comision Del Registro Y Evaluacion De Antecedentes Profesionales,73,7180
+2024,Ministerio de Educacion,"$ 2033136095,64",Comision Del Registro Y Evaluacion De Antecedentes Profesionales,82,3149
+2022,Jefatura De Gobierno,$ 0,Colonias Deportivas Y Recreativas,81,8106
+2023,Ministerio De Salud,"$ 224861506,7",Ciudad Amigable Para Personas Mayores,30,407
+2024,Jefatura De Gobierno,"$ 5459529,54",Ciudad Amigable Para Personas Mayores,50,141
+2024,Jefatura De Gobierno,"$ 9106685930,93",Certificacion De La Identidad Y Capacidad De Las Personas,106,3237
+2022,Ministerio de Educacion,"$ 97570112,83",Carrera Docente,71,7180
+2023,Ministerio de Educacion,"$ 224983627,69",Carrera Docente,71,7180
+2024,Ministerio de Educacion,"$ 771438702,92",Carrera Docente,80,3149
+2024,Jefatura De Gobierno,"$ 74691454,91",Cambio Cultural,46,3248
+2024,Jefatura De Gobierno,"$ 251987604,39",Buenos Aires Convive,82,3169
+2022,Ministerio de Educacion,"$ 2226268372,7",Becas Estudiantiles,44,586
+2023,Ministerio de Educacion,"$ 4073877458,53",Becas Estudiantiles,44,586
+2024,Ministerio de Educacion,$ 12440970052,Becas Estudiantiles,78,3148
+2023,Jefatura De Gobierno,"$ 2406215964,37",Avtividades Comunes a los Programas,1,101
+2023,Jefatura De Gobierno,"$ 499453832,28",Avtividades Comunes a los Programas,1,1032
+2023,Jefatura De Gobierno,"$ 704081098,9",Avtividades Comunes a los Programas,1,214
+2023,Jefatura De Gobierno,"$ 406448778,28",Avtividades Comunes a los Programas,1,7212
+2023,Jefatura De Gobierno,"$ 3232942832,98",Avtividades Comunes a los Programas,1,7217
+2023,Jefatura De Gobierno,"$ 1215440167,79",Avtividades Comunes a los Programas,1,7300
+2023,Jefatura De Gobierno,"$ 1548169819,4",Avtividades Comunes a los Programas,1,9611
+2023,Jefatura De Gobierno,"$ 650712868,24",Avtividades Comunes a los Programas,1,9750
+2023,Jefatura De Gobierno,"$ 156827796,77",Avtividades Comunes a los Programas,16,118
+2023,Jefatura De Gobierno,"$ 164986609,82",Avtividades Comunes a los Programas,16,168
+2023,Jefatura De Gobierno,"$ 1415533262,22",Avtividades Comunes a los Programas,17,146
+2023,Jefatura De Gobierno,"$ 4281680909,09",Avtividades Comunes a los Programas,17,229
+2023,Jefatura De Gobierno,"$ 139734943,82",Avtividades Comunes a los Programas,17,7348
+2023,Jefatura De Gobierno,"$ 113548382,13",Avtividades Comunes a los Programas,18,204
+2023,Jefatura De Gobierno,"$ 984454688,67",Avtividades Comunes a los Programas,18,229
+2023,Jefatura De Gobierno,"$ 60085011,64",Avtividades Comunes a los Programas,19,206
+2023,Jefatura De Gobierno,"$ 4933298707,79",Avtividades Comunes a los Programas,19,229
+2023,Jefatura De Gobierno,"$ 687286090,75",Avtividades Comunes a los Programas,2,7345
+2023,Jefatura De Gobierno,"$ 605439523,53",Avtividades Comunes a los Programas,20,100
+2023,Jefatura De Gobierno,"$ 62118842,49",Avtividades Comunes a los Programas,20,207
+2023,Jefatura De Gobierno,"$ 2653498560,56",Avtividades Comunes a los Programas,20,229
+2023,Jefatura De Gobierno,$ 63780103,Avtividades Comunes a los Programas,21,2010
+2023,Jefatura De Gobierno,"$ 83453590,11",Avtividades Comunes a los Programas,21,229
+2023,Jefatura De Gobierno,"$ 167793007,96",Avtividades Comunes a los Programas,21,7185
+2023,Jefatura De Gobierno,$ 204675951,Avtividades Comunes a los Programas,21,7356
+2023,Jefatura De Gobierno,"$ 216226338,66",Avtividades Comunes a los Programas,22,175
+2023,Jefatura De Gobierno,"$ 959810686,65",Avtividades Comunes a los Programas,22,228
+2023,Jefatura De Gobierno,"$ 1390401,5",Avtividades Comunes a los Programas,22,7451
+2023,Jefatura De Gobierno,"$ 122311840,49",Avtividades Comunes a los Programas,23,2010
+2023,Jefatura De Gobierno,"$ 327162054,08",Avtividades Comunes a los Programas,23,2032
+2023,Jefatura De Gobierno,"$ 135826804,74",Avtividades Comunes a los Programas,23,72
+2023,Jefatura De Gobierno,"$ 126206677,67",Avtividades Comunes a los Programas,23,7345
+2023,Jefatura De Gobierno,"$ 479374184,79",Avtividades Comunes a los Programas,23,7357
+2023,Jefatura De Gobierno,"$ 64924925,99",Avtividades Comunes a los Programas,24,2032
+2023,Jefatura De Gobierno,"$ 346319236,21",Avtividades Comunes a los Programas,24,73
+2023,Jefatura De Gobierno,"$ 274109971,34",Avtividades Comunes a los Programas,24,7345
+2023,Jefatura De Gobierno,"$ 159914872,13",Avtividades Comunes a los Programas,26,2013
+2023,Jefatura De Gobierno,"$ 236079562,13",Avtividades Comunes a los Programas,26,228
+2023,Jefatura De Gobierno,"$ 101131121,13",Avtividades Comunes a los Programas,27,2010
+2023,Jefatura De Gobierno,"$ 7094407393,4",Avtividades Comunes a los Programas,27,228
+2023,Jefatura De Gobierno,"$ 668957686,77",Avtividades Comunes a los Programas,27,7224
+2023,Jefatura De Gobierno,"$ 171937893,9",Avtividades Comunes a los Programas,27,7354
+2023,Jefatura De Gobierno,"$ 106004073,49",Avtividades Comunes a los Programas,28,2022
+2023,Jefatura De Gobierno,"$ 1065533673,07",Avtividades Comunes a los Programas,28,228
+2023,Jefatura De Gobierno,"$ 1550017923,2",Avtividades Comunes a los Programas,28,7351
+2023,Jefatura De Gobierno,"$ 65454632,75",Avtividades Comunes a los Programas,29,2028
+2023,Jefatura De Gobierno,"$ 4203908363,65",Avtividades Comunes a los Programas,29,228
+2023,Jefatura De Gobierno,"$ 130677954,11",Avtividades Comunes a los Programas,3,205
+2023,Jefatura De Gobierno,"$ 1461835052,19",Avtividades Comunes a los Programas,3,230
+2023,Jefatura De Gobierno,"$ 126585199,93",Avtividades Comunes a los Programas,30,2030
+2023,Jefatura De Gobierno,"$ 2371567723,58",Avtividades Comunes a los Programas,30,228
+2023,Jefatura De Gobierno,"$ 54402481,57",Avtividades Comunes a los Programas,30,7362
+2023,Jefatura De Gobierno,"$ 146119932,5",Avtividades Comunes a los Programas,31,2031
+2023,Jefatura De Gobierno,"$ 443288823,63",Avtividades Comunes a los Programas,31,228
+2023,Jefatura De Gobierno,"$ 113707661,93",Avtividades Comunes a los Programas,31,7363
+2023,Jefatura De Gobierno,"$ 11508094667,23",Avtividades Comunes a los Programas,31,9601
+2023,Jefatura De Gobierno,"$ 417482906,06",Avtividades Comunes a los Programas,32,2010
+2023,Jefatura De Gobierno,"$ 342485734,14",Avtividades Comunes a los Programas,32,7223
+2023,Jefatura De Gobierno,"$ 49252361,17",Avtividades Comunes a los Programas,32,7364
+2023,Jefatura De Gobierno,"$ 204212562,39",Avtividades Comunes a los Programas,33,2506
+2023,Jefatura De Gobierno,"$ 243402150,9",Avtividades Comunes a los Programas,33,7359
+2023,Jefatura De Gobierno,"$ 514575804,72",Avtividades Comunes a los Programas,34,2505
+2023,Jefatura De Gobierno,"$ 299716215,91",Avtividades Comunes a los Programas,34,7360
+2023,Jefatura De Gobierno,"$ 421371250,5",Avtividades Comunes a los Programas,34,9611
+2023,Jefatura De Gobierno,"$ 269335424,23",Avtividades Comunes a los Programas,4,7355
+2023,Jefatura De Gobierno,"$ 374093309,28",Avtividades Comunes a los Programas,5,2024
+2023,Jefatura De Gobierno,"$ 265176421,35",Avtividades Comunes a los Programas,5,7358
+2023,Jefatura De Gobierno,"$ 66862008,94",Avtividades Comunes a los Programas,53,7187
+2023,Jefatura De Gobierno,"$ 840531754,53",Avtividades Comunes a los Programas,53,7225
+2023,Jefatura De Gobierno,"$ 741092695,01",Avtividades Comunes a los Programas,6,1107
+2023,Jefatura De Gobierno,$ 0,Avtividades Comunes a los Programas,6,2029
+2023,Jefatura De Gobierno,"$ 66598279,99",Avtividades Comunes a los Programas,6,7361
+2023,Jefatura De Gobierno,$ 0,Avtividades Comunes a los Programas,7,2007
+2023,Jefatura De Gobierno,"$ 1326955388,5",Avtividades Comunes a los Programas,71,7211
+2023,Jefatura De Gobierno,"$ 244749389,02",Avtividades Comunes a los Programas,8,2010
+2023,Jefatura De Gobierno,"$ 74380826,62",Avtividades Comunes a los Programas,8,7186
+2022,Ministerio De Salud,"$ 5553700933,37","Atencion Primaria, Ambulatoria Y Comunitaria",70,4001
+2023,Ministerio De Salud,"$ 8987706049,74","Atencion Primaria, Ambulatoria Y Comunitaria",70,4001
+2024,Ministerio De Salud,"$ 23812826514,22","Atencion Primaria, Ambulatoria Y Comunitaria",70,4001
+2022,Ministerio De Salud,"$ 1086643872,23",Atencion Odontologica General,57,415
+2022,Ministerio De Salud,"$ 826268169,13",Atencion Odontologica General,57,424
+2022,Ministerio De Salud,"$ 460643019,56",Atencion Odontologica General,57,429
+2023,Ministerio De Salud,"$ 2779033421,94",Atencion Odontologica General,57,415
+2023,Ministerio De Salud,"$ 2035302142,06",Atencion Odontologica General,57,424
+2023,Ministerio De Salud,"$ 1180961958,63",Atencion Odontologica General,57,429
+2024,Ministerio De Salud,"$ 8229377710,33",Atencion Odontologica General,57,415
+2024,Ministerio De Salud,"$ 6119538649,18",Atencion Odontologica General,57,424
+2024,Ministerio De Salud,"$ 3337104501,68",Atencion Odontologica General,57,429
+2022,Ministerio De Salud,"$ 1141016317,98",Atencion Medica Oftalmologica,56,421
+2022,Ministerio De Salud,"$ 1614351498,6",Atencion Medica Oftalmologica,56,433
+2023,Ministerio De Salud,"$ 2876888489,43",Atencion Medica Oftalmologica,56,421
+2023,Ministerio De Salud,"$ 4043008439,09",Atencion Medica Oftalmologica,56,433
+2024,Ministerio De Salud,"$ 8576044922,22",Atencion Medica Oftalmologica,56,421
+2024,Ministerio De Salud,"$ 12714550060,34",Atencion Medica Oftalmologica,56,433
+2022,Ministerio De Salud,"$ 7676429583,15",Atencion Medica Materno Infantil,55,417
+2022,Ministerio De Salud,"$ 11185526046,04",Atencion Medica Materno Infantil,55,420
+2022,Ministerio De Salud,"$ 3586057190,01",Atencion Medica Materno Infantil,55,435
+2023,Ministerio De Salud,"$ 18992151495,17",Atencion Medica Materno Infantil,55,417
+2023,Ministerio De Salud,"$ 28010870982,03",Atencion Medica Materno Infantil,55,420
+2023,Ministerio De Salud,"$ 9080743228,07",Atencion Medica Materno Infantil,55,435
+2024,Ministerio De Salud,"$ 60131351792,11",Atencion Medica Materno Infantil,55,417
+2024,Ministerio De Salud,"$ 88751113748,21",Atencion Medica Materno Infantil,55,420
+2024,Ministerio De Salud,"$ 28213644887,64",Atencion Medica Materno Infantil,55,435
+2022,Ministerio De Salud,"$ 6345257074,6",Atencion Medica General En Hospitales De Agudos,52,410
+2022,Ministerio De Salud,"$ 11067782023,22",Atencion Medica General En Hospitales De Agudos,52,412
+2022,Ministerio De Salud,"$ 10108615697,2",Atencion Medica General En Hospitales De Agudos,52,416
+2022,Ministerio De Salud,"$ 10657063310,03",Atencion Medica General En Hospitales De Agudos,52,418
+2022,Ministerio De Salud,"$ 7094639376,85",Atencion Medica General En Hospitales De Agudos,52,425
+2022,Ministerio De Salud,"$ 7838328828,99",Atencion Medica General En Hospitales De Agudos,52,426
+2022,Ministerio De Salud,"$ 7407658571,76",Atencion Medica General En Hospitales De Agudos,52,427
+2022,Ministerio De Salud,"$ 9364399812,7",Atencion Medica General En Hospitales De Agudos,52,430
+2022,Ministerio De Salud,"$ 6917983738,72",Atencion Medica General En Hospitales De Agudos,52,431
+2022,Ministerio De Salud,"$ 9794473311,08",Atencion Medica General En Hospitales De Agudos,52,434
+2022,Ministerio De Salud,"$ 4852623539,92",Atencion Medica General En Hospitales De Agudos,52,438
+2022,Ministerio De Salud,"$ 3938914050,77",Atencion Medica General En Hospitales De Agudos,52,440
+2022,Ministerio De Salud,"$ 3171043052,39",Atencion Medica General En Hospitales De Agudos,52,441
+2022,Ministerio De Salud,"$ 1715464026,13",Atencion Medica General En Hospitales De Agudos,52,455
+2023,Ministerio De Salud,$ 0,Atencion Medica General En Hospitales De Agudos,52,4000
+2023,Ministerio De Salud,"$ 15644603693,24",Atencion Medica General En Hospitales De Agudos,52,410
+2023,Ministerio De Salud,"$ 27366487084,54",Atencion Medica General En Hospitales De Agudos,52,412
+2023,Ministerio De Salud,"$ 24560422278,47",Atencion Medica General En Hospitales De Agudos,52,416
+2023,Ministerio De Salud,"$ 26312143032,08",Atencion Medica General En Hospitales De Agudos,52,418
+2023,Ministerio De Salud,"$ 17545385122,01",Atencion Medica General En Hospitales De Agudos,52,425
+2023,Ministerio De Salud,"$ 19109915206,22",Atencion Medica General En Hospitales De Agudos,52,426
+2023,Ministerio De Salud,"$ 17983407445,5",Atencion Medica General En Hospitales De Agudos,52,427
+2023,Ministerio De Salud,"$ 23594114409,05",Atencion Medica General En Hospitales De Agudos,52,430
+2023,Ministerio De Salud,"$ 17180621052,94",Atencion Medica General En Hospitales De Agudos,52,431
+2023,Ministerio De Salud,"$ 23906965152,74",Atencion Medica General En Hospitales De Agudos,52,434
+2023,Ministerio De Salud,"$ 11432132539,67",Atencion Medica General En Hospitales De Agudos,52,438
+2023,Ministerio De Salud,"$ 9751086374,17",Atencion Medica General En Hospitales De Agudos,52,440
+2023,Ministerio De Salud,"$ 7864105514,62",Atencion Medica General En Hospitales De Agudos,52,441
+2023,Ministerio De Salud,"$ 5005624785,93",Atencion Medica General En Hospitales De Agudos,52,455
+2024,Ministerio De Salud,"$ 48493694736,36",Atencion Medica General En Hospitales De Agudos,52,410
+2024,Ministerio De Salud,"$ 86912526170,96",Atencion Medica General En Hospitales De Agudos,52,412
+2024,Ministerio De Salud,"$ 78534973873,05",Atencion Medica General En Hospitales De Agudos,52,416
+2024,Ministerio De Salud,"$ 84015234315,45",Atencion Medica General En Hospitales De Agudos,52,418
+2024,Ministerio De Salud,"$ 55383273769,3",Atencion Medica General En Hospitales De Agudos,52,425
+2024,Ministerio De Salud,"$ 58972955900,23",Atencion Medica General En Hospitales De Agudos,52,426
+2024,Ministerio De Salud,"$ 57322967121,69",Atencion Medica General En Hospitales De Agudos,52,427
+2024,Ministerio De Salud,"$ 76393136776,37",Atencion Medica General En Hospitales De Agudos,52,430
+2024,Ministerio De Salud,"$ 56745949313,89",Atencion Medica General En Hospitales De Agudos,52,431
+2024,Ministerio De Salud,"$ 76992108905,41",Atencion Medica General En Hospitales De Agudos,52,434
+2024,Ministerio De Salud,"$ 35451400066,85",Atencion Medica General En Hospitales De Agudos,52,438
+2024,Ministerio De Salud,"$ 29589082067,25",Atencion Medica General En Hospitales De Agudos,52,440
+2024,Ministerio De Salud,"$ 23590750065,52",Atencion Medica General En Hospitales De Agudos,52,441
+2024,Ministerio De Salud,"$ 17138625525,63",Atencion Medica General En Hospitales De Agudos,52,455
+2022,Ministerio De Salud,"$ 2583363829,19",Atencion Medica De Patologias Especificas,54,414
+2022,Ministerio De Salud,"$ 6918173299,62",Atencion Medica De Patologias Especificas,54,423
+2022,Ministerio De Salud,"$ 2140796295,16",Atencion Medica De Patologias Especificas,54,428
+2022,Ministerio De Salud,"$ 2616039735,5",Atencion Medica De Patologias Especificas,54,439
+2023,Ministerio De Salud,"$ 6596154449,41",Atencion Medica De Patologias Especificas,54,414
+2023,Ministerio De Salud,"$ 16299182256,75",Atencion Medica De Patologias Especificas,54,423
+2023,Ministerio De Salud,"$ 5428951518,57",Atencion Medica De Patologias Especificas,54,428
+2023,Ministerio De Salud,"$ 6547960748,36",Atencion Medica De Patologias Especificas,54,439
+2024,Ministerio De Salud,"$ 20483524146,96",Atencion Medica De Patologias Especificas,54,414
+2024,Ministerio De Salud,"$ 52967873737,11",Atencion Medica De Patologias Especificas,54,423
+2024,Ministerio De Salud,"$ 16827849541,54",Atencion Medica De Patologias Especificas,54,428
+2024,Ministerio De Salud,"$ 21149937229,49",Atencion Medica De Patologias Especificas,54,439
+2022,Ministerio De Salud,"$ 1830883091,57",Atencion De Salud Mental,85,4000
+2022,Ministerio De Salud,"$ 1494919821,21",Atencion De Salud Mental,85,411
+2022,Ministerio De Salud,"$ 3737113173,41",Atencion De Salud Mental,85,413
+2022,Ministerio De Salud,"$ 3821141385,8",Atencion De Salud Mental,85,422
+2022,Ministerio De Salud,"$ 432997212,17",Atencion De Salud Mental,85,436
+2022,Ministerio De Salud,"$ 1526365306,3",Atencion De Salud Mental,85,437
+2022,Ministerio De Salud,"$ 565056025,45",Atencion De Salud Mental,85,443
+2022,Ministerio De Salud,"$ 211559958,59",Atencion De Salud Mental,85,450
+2023,Ministerio De Salud,"$ 4305783509,9",Atencion De Salud Mental,85,4000
+2023,Ministerio De Salud,"$ 3692851144,49",Atencion De Salud Mental,85,411
+2023,Ministerio De Salud,"$ 9246583460,56",Atencion De Salud Mental,85,413
+2023,Ministerio De Salud,"$ 9951739847,63",Atencion De Salud Mental,85,422
+2023,Ministerio De Salud,"$ 1027896722,71",Atencion De Salud Mental,85,436
+2023,Ministerio De Salud,"$ 3888780874,6",Atencion De Salud Mental,85,437
+2023,Ministerio De Salud,"$ 1399254906,21",Atencion De Salud Mental,85,443
+2023,Ministerio De Salud,"$ 568220299,37",Atencion De Salud Mental,85,450
+2024,Ministerio De Salud,"$ 12407873814,4",Atencion De Salud Mental,85,4000
+2024,Ministerio De Salud,"$ 11246764464,76",Atencion De Salud Mental,85,411
+2024,Ministerio De Salud,"$ 28902532575,74",Atencion De Salud Mental,85,413
+2024,Ministerio De Salud,"$ 30353001446,35",Atencion De Salud Mental,85,422
+2024,Ministerio De Salud,"$ 3010264340,64",Atencion De Salud Mental,85,436
+2024,Ministerio De Salud,"$ 11472460967,37",Atencion De Salud Mental,85,437
+2024,Ministerio De Salud,"$ 4456974084,01",Atencion De Salud Mental,85,443
+2024,Ministerio De Salud,"$ 1734883086,77",Atencion De Salud Mental,85,450
+2022,Ministerio De Salud,"$ 1720235223,53",Atencion De Rehabilitacion,59,419
+2022,Ministerio De Salud,"$ 1578358738,02",Atencion De Rehabilitacion,59,432
+2022,Ministerio De Salud,"$ 1561705570,99",Atencion De Rehabilitacion,59,446
+2023,Ministerio De Salud,"$ 4060791288,92",Atencion De Rehabilitacion,59,419
+2023,Ministerio De Salud,"$ 4346041472,13",Atencion De Rehabilitacion,59,432
+2023,Ministerio De Salud,"$ 3860176432,04",Atencion De Rehabilitacion,59,446
+2024,Ministerio De Salud,"$ 13467575517,79",Atencion De Rehabilitacion,59,419
+2024,Ministerio De Salud,"$ 13488548714,33",Atencion De Rehabilitacion,59,432
+2024,Ministerio De Salud,"$ 11904162117,32",Atencion De Rehabilitacion,59,446
+2024,Jefatura De Gobierno,"$ 382522601,43",Asuntos Institucionales,114,3245
+2022,Ministerio de Desarrollo Humano,"$ 636476278,39",Asistencia Victimas De La Violencia,69,480
+2024,Jefatura De Gobierno,"$ 107968226,32",Asistencia Territorial,107,3234
+2022,Ministerio de Desarrollo Humano,"$ 58753072,38",Asistencia Tecnica A La Economia Popular Y Social,81,7408
+2023,Ministerio de Desarrollo Humano,"$ 187533747,29",Asistencia Tecnica A La Economia Popular Y Social,81,7408
+2024,Ministerio de Desarrollo Humano,"$ 729714472,73",Asistencia Tecnica A La Economia Popular Y Social,81,7408
+2022,Ministerio de Desarrollo Humano,"$ 691231841,47",Asistencia Socio Habitacional,42,1004
+2023,Ministerio de Desarrollo Humano,"$ 1651977165,64",Asistencia Socio Habitacional,42,1004
+2022,Ministerio de Desarrollo Humano,"$ 296700493,82",Asistencia Social Descentralizada,62,1005
+2023,Ministerio de Desarrollo Humano,"$ 666610904,1",Asistencia Social Descentralizada,62,1005
+2022,Ministerio de Desarrollo Humano,"$ 1206756009,58",Asistencia Integral A Los Sin Techo,44,1004
+2023,Ministerio de Desarrollo Humano,"$ 4002166046,05",Asistencia Integral A Los Sin Techo,44,1004
+2022,Ministerio de Desarrollo Humano,"$ 547857819,51",Asistencia Inmediata Ante La Emergencia Social,45,1004
+2023,Ministerio de Desarrollo Humano,"$ 1357066496,86",Asistencia Inmediata Ante La Emergencia Social,45,1004
+2022,Ministerio de Desarrollo Humano,"$ 2803003025,42",Asistencia Familias Alta Vulnerabilidad Social,43,1004
+2022,Ministerio de Educacion,"$ 24059832615,11",Asistencia Alimentaria Y Accion Comunitaria,51,582
+2023,Ministerio de Educacion,"$ 63925733862,38",Asistencia Alimentaria Y Accion Comunitaria,51,582
+2024,Ministerio de Educacion,"$ 213278800584,56",Asistencia Alimentaria Y Accion Comunitaria,51,582
+2022,Ministerio de Desarrollo Humano,$ 1976885402,Asistencia Al Damnificado,28,1005
+2023,Ministerio de Desarrollo Humano,$ 5100662324,Asistencia Al Damnificado,28,1005
+2023,Ministerio de Desarrollo Humano,"$ 1713256910,56",Asistencia A Victimas De La Violencia,69,480
+2024,Jefatura De Gobierno,"$ 97236809,76",Asistencia A Victimas De La Violencia,37,3151
+2023,Ministerio de Desarrollo Humano,"$ 4148795941,3",Asistencia A Familias De Alta Vulnerabilidad Social,43,1004
+2022,Jefatura De Gobierno,"$ 1089822587,71",Areas De Conservacion,310,7214
+2023,Jefatura De Gobierno,"$ 7096812048,88",Areas De Conservacion,310,7214
+2024,Jefatura De Gobierno,"$ 7168635138,93",Areas De Conservacion,86,3161
+2022,Ministerio De Salud,"$ 1226573599,63",Administracion Del Sistema De Salud,65,552
+2023,Ministerio De Salud,"$ 2683957567,57",Administracion Del Sistema De Salud,65,552
+2024,Ministerio De Salud,"$ 8152805513,53",Administracion Del Sistema De Salud,65,552
+2022,Ministerio de Educacion,"$ 1926353051,15",Administracion De Personal,70,7180
+2023,Ministerio de Educacion,"$ 4744572926,99",Administracion De Personal,70,7180
+2024,Ministerio de Educacion,"$ 13269919058,18",Administracion De Personal,79,3149
+2022,Ministerio de Educacion,"$ 8592041751,21",Administracion De Mantenimiento,57,9764
+2023,Ministerio de Educacion,"$ 20125045894,04",Administracion De Mantenimiento,57,9764
+2024,Ministerio de Educacion,"$ 80439152521,97",Administracion De Mantenimiento,57,9764
+2022,Ministerio de Desarrollo Humano,"$ 1706561671,86",Administracion Centralizada,18,7411
+2023,Ministerio de Desarrollo Humano,"$ 3460227084,84",Administracion Centralizada,18,7411
+2024,Ministerio de Desarrollo Humano,"$ 8325936788,98",Administracion Centralizada,18,7411
+2022,Ministerio De Salud,"$ 3778792879,29","Actividades De Atencion Hospitalaria Comunes A Los Programas 52, 54, 55, 56, 57",7,4000
+2024,Ministerio de Educacion,"$ 42848327657,83",Actividades Comunes Sstes,11,3150
+2024,Ministerio de Educacion,"$ 4889123870,99",Actividades Comunes Ssgefyar,3,672
+2024,Ministerio de Educacion,"$ 2600416355,97",Actividades Comunes Sscdoc,10,3149
+2024,Ministerio de Educacion,"$ 3853690643,62",Actividades Comunes Ssaalv,6,7182
+2022,Ministerio De Espacio Publico,"$ 203802804,4","Actividades Comunes A Los Programas: 13, 14, 52 Y 57",6,8837
+2022,Ministerio De Espacio Publico,"$ 48964368,68","Actividades Comunes A Los Programas 79, 90, 91, 92, 120 Y 121",9,7158
+2022,Ministerio de Educacion,"$ 257539336,33","Actividades Comunes A Los Programas 70,71,72,73",5,7180
+2022,Ministerio de Educacion,"$ 2127311590,08","Actividades Comunes A Los Programas 51,52,53,54,55 Y 57",3,672
+2022,Ministerio de Educacion,"$ 226276942,32",Actividades Comunes A Los Programas 47 Y 48,6,7182
+2022,Ministerio De Salud,"$ 524746018,52","Actividades Comunes A Los Programas 30,40,41,42,43",5,4020
+2022,Ministerio de Educacion,"$ 7123404686,72","Actividades Comunes A Los Programas 25, 26, 27 Y 28",4,7340
+2022,Ministerio de Educacion,"$ 3075430101,47","Actividades Comunes A Los Programas 21,23,30,33,34,35,36,37,38,39,41,42,44,45",2,586
+2022,Ministerio De Espacio Publico,"$ 114861790,44","Actividades Comunes A Los Programas 15, 37, 81 Y 321",3,7160
+2022,Jefatura De Gobierno,"$ 737077567,44",Actividades comunes a los programas,1,101
+2022,Jefatura De Gobierno,"$ 309414951,79",Actividades comunes a los programas,1,214
+2022,Jefatura De Gobierno,"$ 165154845,31",Actividades comunes a los programas,1,7212
+2022,Jefatura De Gobierno,"$ 956684794,77",Actividades comunes a los programas,1,7217
+2022,Jefatura De Gobierno,"$ 207924759,32",Actividades comunes a los programas,1,7300
+2022,Jefatura De Gobierno,"$ 258071910,84",Actividades comunes a los programas,1,9611
+2022,Jefatura De Gobierno,"$ 245391555,79",Actividades comunes a los programas,1,9750
+2022,Jefatura De Gobierno,"$ 252756493,25",Actividades comunes a los programas,10,100
+2022,Jefatura De Gobierno,"$ 88768556,65",Actividades comunes a los programas,11,168
+2022,Jefatura De Gobierno,"$ 4981719037,14",Actividades comunes a los programas,11,9601
+2022,Jefatura De Gobierno,"$ 9573795,2",Actividades comunes a los programas,12,174
+2022,Jefatura De Gobierno,"$ 103982501,59",Actividades comunes a los programas,12,7451
+2022,Jefatura De Gobierno,"$ 14154807,33",Actividades comunes a los programas,13,206
+2022,Jefatura De Gobierno,"$ 53964623,38",Actividades comunes a los programas,13,72
+2022,Jefatura De Gobierno,"$ 16273637,17",Actividades comunes a los programas,14,207
+2022,Jefatura De Gobierno,"$ 36619160,61",Actividades comunes a los programas,15,204
+2022,Jefatura De Gobierno,"$ 66983084,02",Actividades comunes a los programas,16,118
+2022,Jefatura De Gobierno,"$ 652940243,63",Actividades comunes a los programas,17,146
+2022,Jefatura De Gobierno,"$ 276080119,22",Actividades comunes a los programas,17,229
+2022,Jefatura De Gobierno,"$ 63942532,27",Actividades comunes a los programas,17,7348
+2022,Jefatura De Gobierno,"$ 153324344,23",Actividades comunes a los programas,19,229
+2022,Jefatura De Gobierno,"$ 52225698,4",Actividades comunes a los programas,19,7221
+2022,Jefatura De Gobierno,"$ 8881771,6",Actividades comunes a los programas,19,9619
+2022,Jefatura De Gobierno,"$ 269828224,28",Actividades comunes a los programas,2,7345
+2022,Jefatura De Gobierno,"$ 137049925,01",Actividades comunes a los programas,2,9959
+2022,Jefatura De Gobierno,$ 23000000,Actividades comunes a los programas,21,2010
+2022,Jefatura De Gobierno,"$ 157586,79",Actividades comunes a los programas,21,229
+2022,Jefatura De Gobierno,"$ 93006975,09",Actividades comunes a los programas,21,7185
+2022,Jefatura De Gobierno,"$ 70181361,9",Actividades comunes a los programas,21,7356
+2022,Jefatura De Gobierno,"$ 46118266,85",Actividades comunes a los programas,22,175
+2022,Jefatura De Gobierno,"$ 14218798,92",Actividades comunes a los programas,22,228
+2022,Jefatura De Gobierno,"$ 65210331,93",Actividades comunes a los programas,22,7220
+2022,Jefatura De Gobierno,"$ 44668875,14",Actividades comunes a los programas,23,2010
+2022,Jefatura De Gobierno,"$ 121006711,17",Actividades comunes a los programas,23,7346
+2022,Jefatura De Gobierno,"$ 160732146,74",Actividades comunes a los programas,23,7357
+2022,Jefatura De Gobierno,"$ 124757975,66",Actividades comunes a los programas,24,7219
+2022,Jefatura De Gobierno,"$ 139879139,01",Actividades comunes a los programas,24,7347
+2022,Jefatura De Gobierno,"$ 66078128,52",Actividades comunes a los programas,26,2013
+2022,Jefatura De Gobierno,"$ 7809412,62",Actividades comunes a los programas,26,228
+2022,Jefatura De Gobierno,"$ 43859897,85",Actividades comunes a los programas,27,2010
+2022,Jefatura De Gobierno,"$ 118326380,23",Actividades comunes a los programas,27,228
+2022,Jefatura De Gobierno,"$ 335669400,55",Actividades comunes a los programas,27,7224
+2022,Jefatura De Gobierno,"$ 115982864,13",Actividades comunes a los programas,27,7354
+2022,Jefatura De Gobierno,"$ 78761247,75",Actividades comunes a los programas,28,2022
+2022,Jefatura De Gobierno,"$ 11487136,84",Actividades comunes a los programas,28,228
+2022,Jefatura De Gobierno,"$ 757206234,74",Actividades comunes a los programas,28,7351
+2022,Jefatura De Gobierno,"$ 48351808,53",Actividades comunes a los programas,29,2028
+2022,Jefatura De Gobierno,"$ 142352855,64",Actividades comunes a los programas,29,228
+2022,Jefatura De Gobierno,"$ 17517200,15",Actividades comunes a los programas,29,7352
+2022,Jefatura De Gobierno,"$ 55242801,39",Actividades comunes a los programas,3,205
+2022,Jefatura De Gobierno,"$ 108801712,4",Actividades comunes a los programas,3,230
+2022,Jefatura De Gobierno,"$ 74296154,57",Actividades comunes a los programas,3,7350
+2022,Jefatura De Gobierno,"$ 56923945,96",Actividades comunes a los programas,3,8116
+2022,Jefatura De Gobierno,"$ 57732476,48",Actividades comunes a los programas,30,2030
+2022,Jefatura De Gobierno,"$ 20440431,07",Actividades comunes a los programas,30,228
+2022,Jefatura De Gobierno,"$ 18529115,36",Actividades comunes a los programas,30,7362
+2022,Jefatura De Gobierno,"$ 93920223,09",Actividades comunes a los programas,31,2031
+2022,Jefatura De Gobierno,"$ 66547703,73",Actividades comunes a los programas,31,228
+2022,Jefatura De Gobierno,"$ 36352105,08",Actividades comunes a los programas,31,7363
+2022,Jefatura De Gobierno,"$ 200787989,59",Actividades comunes a los programas,32,2010
+2022,Jefatura De Gobierno,"$ 129780079,3",Actividades comunes a los programas,32,7223
+2022,Jefatura De Gobierno,"$ 18650352,13",Actividades comunes a los programas,32,7364
+2022,Jefatura De Gobierno,"$ 100423202,56",Actividades comunes a los programas,33,2506
+2022,Jefatura De Gobierno,$ 40164628,Actividades comunes a los programas,33,7359
+2022,Jefatura De Gobierno,"$ 230335825,11",Actividades comunes a los programas,34,2505
+2022,Jefatura De Gobierno,"$ 121325708,08",Actividades comunes a los programas,34,7360
+2022,Jefatura De Gobierno,$ 0,Actividades comunes a los programas,4,2004
+2022,Jefatura De Gobierno,"$ 177341136,35",Actividades comunes a los programas,4,7355
+2022,Jefatura De Gobierno,"$ 281765960,38",Actividades comunes a los programas,5,2024
+2022,Jefatura De Gobierno,"$ 90628309,74",Actividades comunes a los programas,5,7358
+2022,Jefatura De Gobierno,"$ 57321409,67",Actividades comunes a los programas,5,8106
+2022,Jefatura De Gobierno,"$ 21252233,33",Actividades comunes a los programas,53,7187
+2022,Jefatura De Gobierno,"$ 355465475,52",Actividades comunes a los programas,53,7225
+2022,Jefatura De Gobierno,"$ 74001473,46",Actividades comunes a los programas,6,2029
+2022,Jefatura De Gobierno,"$ 32272078,72",Actividades comunes a los programas,6,7361
+2022,Jefatura De Gobierno,"$ 320763604,73",Actividades comunes a los programas,7,2007
+2022,Jefatura De Gobierno,"$ 430316378,18",Actividades comunes a los programas,71,7211
+2022,Jefatura De Gobierno,"$ 431324475,79",Actividades comunes a los programas,71,8116
+2022,Jefatura De Gobierno,"$ 2927197,06",Actividades comunes a los programas,73,8116
+2022,Jefatura De Gobierno,"$ 94607763,44",Actividades comunes a los programas,8,2010
+2022,Jefatura De Gobierno,"$ 51935413,71",Actividades comunes a los programas,8,7186
+2024,Jefatura De Gobierno,"$ 6042396076,53",Actividades comunes a los programas,1,101
+2024,Jefatura De Gobierno,"$ 279681152,89",Actividades comunes a los programas,1,1032
+2024,Jefatura De Gobierno,"$ 3376752413,3",Actividades comunes a los programas,1,3400
+2024,Jefatura De Gobierno,"$ 2439133936,26",Actividades comunes a los programas,100,3233
+2024,Jefatura De Gobierno,"$ 370683463,11",Actividades comunes a los programas,101,3230
+2024,Jefatura De Gobierno,"$ 354102786,02",Actividades comunes a los programas,102,3234
+2024,Jefatura De Gobierno,"$ 435589893,8",Actividades comunes a los programas,103,3234
+2024,Jefatura De Gobierno,"$ 1149292885,66",Actividades comunes a los programas,13,3159
+2024,Jefatura De Gobierno,"$ 682589960,9",Actividades comunes a los programas,14,3158
+2024,Jefatura De Gobierno,"$ 1493693386,52",Actividades comunes a los programas,15,3156
+2024,Jefatura De Gobierno,"$ 355217418,61",Actividades comunes a los programas,16,118
+2024,Jefatura De Gobierno,"$ 3080400003,13",Actividades comunes a los programas,16,3231
+2024,Jefatura De Gobierno,"$ 4473215260,7",Actividades comunes a los programas,16,3401
+2024,Jefatura De Gobierno,"$ 3718156030,05",Actividades comunes a los programas,17,146
+2024,Jefatura De Gobierno,"$ 792180365,69",Actividades comunes a los programas,17,3231
+2024,Jefatura De Gobierno,"$ 1371145415,66",Actividades comunes a los programas,17,3402
+2024,Jefatura De Gobierno,"$ 154095971,61",Actividades comunes a los programas,18,3157
+2024,Jefatura De Gobierno,"$ 3528079576,15",Actividades comunes a los programas,18,3231
+2024,Jefatura De Gobierno,"$ 494160715,14",Actividades comunes a los programas,18,3403
+2024,Jefatura De Gobierno,"$ 10407558771,42",Actividades comunes a los programas,19,3231
+2024,Jefatura De Gobierno,"$ 816163924,9",Actividades comunes a los programas,19,3404
+2024,Jefatura De Gobierno,"$ 101035677,75",Actividades comunes a los programas,2,227
+2024,Jefatura De Gobierno,"$ 397245366,09",Actividades comunes a los programas,2,3151
+2024,Jefatura De Gobierno,"$ 408763395,09",Actividades comunes a los programas,2,3232
+2024,Jefatura De Gobierno,"$ 2361799685,77",Actividades comunes a los programas,2,3244
+2024,Jefatura De Gobierno,"$ 1984913732,86",Actividades comunes a los programas,2,3410
+2024,Jefatura De Gobierno,"$ 1250367192,56",Actividades comunes a los programas,20,100
+2024,Jefatura De Gobierno,"$ 6391553106,92",Actividades comunes a los programas,20,3231
+2024,Jefatura De Gobierno,"$ 613946435,78",Actividades comunes a los programas,20,3405
+2024,Jefatura De Gobierno,"$ 37416446,15",Actividades comunes a los programas,21,243
+2024,Jefatura De Gobierno,"$ 2084825881,96",Actividades comunes a los programas,21,3231
+2024,Jefatura De Gobierno,"$ 2260069171,37",Actividades comunes a los programas,21,3406
+2024,Jefatura De Gobierno,"$ 241564364,53",Actividades comunes a los programas,22,220
+2024,Jefatura De Gobierno,"$ 55341231,06",Actividades comunes a los programas,22,244
+2024,Jefatura De Gobierno,$ 0,Actividades comunes a los programas,22,3231
+2024,Jefatura De Gobierno,"$ 33925733179,64",Actividades comunes a los programas,22,3407
+2024,Jefatura De Gobierno,"$ 14794022422,19",Actividades comunes a los programas,23,144
+2024,Jefatura De Gobierno,"$ 76493568,65",Actividades comunes a los programas,23,245
+2024,Jefatura De Gobierno,$ 0,Actividades comunes a los programas,23,3260
+2024,Jefatura De Gobierno,"$ 397371061,7",Actividades comunes a los programas,23,3408
+2024,Jefatura De Gobierno,"$ 171450113,34",Actividades comunes a los programas,24,3239
+2024,Jefatura De Gobierno,"$ 1467164175,21",Actividades comunes a los programas,24,3409
+2024,Jefatura De Gobierno,"$ 234338600,65",Actividades comunes a los programas,25,3250
+2024,Jefatura De Gobierno,"$ 49868704,05",Actividades comunes a los programas,25,3261
+2024,Jefatura De Gobierno,"$ 429920311,69",Actividades comunes a los programas,25,3411
+2024,Jefatura De Gobierno,"$ 537756929,28",Actividades comunes a los programas,26,2013
+2024,Jefatura De Gobierno,"$ 62628407,76",Actividades comunes a los programas,26,3232
+2024,Jefatura De Gobierno,"$ 758778625,5",Actividades comunes a los programas,26,3412
+2024,Jefatura De Gobierno,"$ 46906679,68",Actividades comunes a los programas,27,3249
+2024,Jefatura De Gobierno,"$ 229791735,4",Actividades comunes a los programas,28,248
+2024,Jefatura De Gobierno,"$ 158884273,88",Actividades comunes a los programas,29,249
+2024,Jefatura De Gobierno,"$ 100487,58",Actividades comunes a los programas,29,3249
+2024,Jefatura De Gobierno,"$ 38525116,48",Actividades comunes a los programas,3,257
+2024,Jefatura De Gobierno,"$ 399881917,23",Actividades comunes a los programas,3,3235
+2024,Jefatura De Gobierno,"$ 2766730435,91",Actividades comunes a los programas,30,246
+2024,Jefatura De Gobierno,"$ 282598785,74",Actividades comunes a los programas,30,265
+2024,Jefatura De Gobierno,"$ 820827583,77",Actividades comunes a los programas,31,247
+2024,Jefatura De Gobierno,"$ 9144500,59",Actividades comunes a los programas,31,265
+2024,Jefatura De Gobierno,"$ 730272023,05",Actividades comunes a los programas,32,2066
+2024,Jefatura De Gobierno,"$ 91659637,62",Actividades comunes a los programas,33,2067
+2024,Jefatura De Gobierno,"$ 281706595,99",Actividades comunes a los programas,35,268
+2024,Jefatura De Gobierno,"$ 184650870,2",Actividades comunes a los programas,4,3234
+2024,Jefatura De Gobierno,"$ 415878640,65",Actividades comunes a los programas,4,3242
+2024,Jefatura De Gobierno,$ 84120056,Actividades comunes a los programas,80,3158
+2024,Jefatura De Gobierno,"$ 8257487227,76",Actividades comunes a los programas,9,138
+2024,Jefatura De Gobierno,"$ 25601563,13",Actividades comunes a los programas,91,3170
+2024,Jefatura De Gobierno,"$ 67241437,48",Actividades comunes a los programas,92,3170
+2024,Jefatura De Gobierno,"$ 66599104,77",Actividades comunes a los programas,93,3170
+2024,Ministerio de Desarrollo Humano,"$ 4992284436,52",Actividades comunes a los programas,71,7012
+2022,Ministerio De Espacio Publico,"$ 1012850402,6","Actividades Comunes A Los Prog. 22, 23 Y 24",2,7168
+2023,Ministerio de Desarrollo Humano,"$ 3941852487,8",Actividades Comunes,2,7413
+2023,Ministerio de Desarrollo Humano,"$ 3027132997,87",Actividades Comunes,5,1003
+2023,Ministerio de Desarrollo Humano,"$ 222383159,13",Actividades Comunes,8,1007
+2023,Ministerio de Educacion,$ 8542840872,Actividades Comunes,2,586
+2023,Ministerio de Educacion,"$ 1632171831,24",Actividades Comunes,3,672
+2023,Ministerio de Educacion,"$ 11682086818,63",Actividades Comunes,4,7340
+2023,Ministerio de Educacion,"$ 4073279238,25",Actividades Comunes,5,7180
+2023,Ministerio de Educacion,"$ 1043928395,33",Actividades Comunes,6,7182
+2023,Ministerio De Espacio Publico,"$ 373588311,69",Actividades Comunes,6,8837
+2023,Ministerio De Salud,"$ 2108961856,47",Actividades Comunes,5,4020
+2023,Ministerio De Salud,"$ 1355887929,06",Actividades Comunes,7,4000
+2024,Ministerio de Desarrollo Humano,"$ 7726025427,33",Actividades Comunes,2,7413
+2024,Ministerio de Desarrollo Humano,"$ 8740922933,86",Actividades Comunes,3,1015
+2024,Ministerio de Desarrollo Humano,"$ 17946782,78",Actividades Comunes,5,1015
+2024,Ministerio de Educacion,"$ 22484883175,78",Actividades Comunes,9,3148
+2024,Ministerio De Espacio Publico,"$ 604555301,61",Actividades Comunes,10,3142
+2024,Ministerio De Espacio Publico,"$ 536560670,12",Actividades Comunes,11,3154
+2024,Ministerio De Espacio Publico,"$ 8164919276,3",Actividades Comunes,2,7168
+2024,Ministerio De Espacio Publico,"$ 1315214147,39",Actividades Comunes,3,7160
+2024,Ministerio De Espacio Publico,"$ 170381150,11",Actividades Comunes,4,1017
+2024,Ministerio De Espacio Publico,"$ 281990015,82",Actividades Comunes,5,1019
+2024,Ministerio De Salud,"$ 4538536322,83",Actividades Comunes,7,4000
+2022,Ministerio de Desarrollo Humano,"$ 3588947799,53",Actividades Centrales Mdhyh,1,7411
+2022,Ministerio De Espacio Publico,"$ 1593048807,45",Actividades Centrales Espacio Publico E Higiene Urbana,1,7162
+2022,Ministerio De Salud,"$ 4390068341,74",Actividades Centrales En Salud,1,401
+2022,Ministerio de Educacion,"$ 3032059303,95",Actividades Centrales Educacion,1,7192
+2023,Ministerio de Desarrollo Humano,"$ 10890487670,82",Actividades Centrales,1,7411
+2023,Ministerio de Educacion,"$ 10460440483,48",Actividades Centrales,1,7192
+2023,Ministerio De Salud,"$ 12486480553,09",Actividades Centrales,1,401
+2024,Ministerio de Desarrollo Humano,"$ 37688742950,49",Actividades Centrales,1,7411
+2024,Ministerio de Educacion,"$ 36667041497,27",Actividades Centrales,1,7192
+2024,Ministerio De Espacio Publico,"$ 19409666068,03",Actividades Centrales,1,7162
+2024,Ministerio De Salud,"$ 59412077003,89",Actividades Centrales,1,401
+2022,Ministerio de Desarrollo Humano,"$ 72589186,39","Actividad Comun Programas 35,36,37,38 Y 46",8,1007
+2022,Ministerio de Desarrollo Humano,"$ 1160018273,92","Actividad Comun Programas 28,42,43,44,45 Y 62",5,1003
+2022,Ministerio de Desarrollo Humano,"$ 873808963,97","Actividad Comun Programas 25,61,63,64,65,67,68,69,70,71 Y 80",2,7413
+2022,Ministerio De Salud,"$ 129297673,13",Acciones Para Personas Mayores,78,4021
+2023,Ministerio De Salud,"$ 444012368,1",Acciones Para Personas Mayores,78,4021
+2024,Jefatura De Gobierno,"$ 549269304,61",Acciones Para Personas Mayores,54,139
+2022,Jefatura De Gobierno,"$ 153604266,78",Acciones De Desarrollo Ciudadano,46,2007
+2023,Jefatura De Gobierno,$ 0,Acciones De Desarrollo Ciudadano,46,2007
+2023,Ministerio de Desarrollo Humano,$ 0,Abordaje Territorial De Las Violencias Por Motivos De Genero En Barrios Populares,73,480
+2022,Ministerio de Desarrollo Humano,$ 0,".Actividad Comun A Los Programas 21,23,24 Y 30",4,498
