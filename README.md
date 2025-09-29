@@ -23,4 +23,25 @@ Se seleccionaron **5 áreas de interés**:
 ---
 
 ## 📂 Estructura del proyecto
+DashboardPresupuesto/
+├── app.R # Código de la Aplicación del dashboard
+├── presupuesto.csv # Presupuesto nominal por programa
+├── presupuesto_inflacion.csv # Multiplicador para calcular presupuesto real
+└── README.md
 
+📈 Visualizaciones incluidas
+
+Inicio: preguntas de investigación.
+
+Presupuesto (por año): tarjetas clickeables por área → redirigen a detalle.
+
+Detalle de área: Top 5 y Bottom 5 programas del año seleccionado.
+
+Evolución: Presupuesto nominal vs real.
+
+Análisis 2022–2024: Top 3 programas con mayor crecimiento y con mayor caída por área.
+
+🛠️ Tecnologías usadas: R, Shiny, Shinydashboard, Tidyverse, PowerQuery, PowerBI. 
+
+✍️ Autora: Giselle San German
+📅 Año: 2025
