@@ -30,8 +30,7 @@ money_es <- function(x) {
       val <- v/1e6
       paste0("$ ", format(round(val, 1), big.mark=".", decimal.mark=","), " millones")
     } else {
-      paste0("$ ", format(round(v, 0), big.mark=".", decimal.mark=","))
-    }
+      paste0("$ ", format(round(v, 0), big.mark=".", decimal.mark=",")) }
   })
 }
 money_es_single <- function(x) money_es(x)[1]
@@ -39,6 +38,7 @@ money_es_single <- function(x) money_es(x)[1]
 # ============================
 # Cargar y procesar datos CSV
 # ============================
+# Presupuesto general
 presupuesto <- read_csv("presupuesto.csv", show_col_types = FALSE) %>%
   rename(
     anio = Año,
@@ -52,6 +52,7 @@ presupuesto <- read_csv("presupuesto.csv", show_col_types = FALSE) %>%
     presupuesto = as.numeric(gsub("[^0-9\\.]", "", presupuesto))
   )
 
+# Inflación / deflactor
 presupuesto_inflacion <- read_csv("presupuesto_inflacion.csv", show_col_types = FALSE) %>%
   rename(
     anio = AÑO,
@@ -63,6 +64,18 @@ presupuesto_inflacion <- read_csv("presupuesto_inflacion.csv", show_col_types = 
 presupuesto <- presupuesto %>%
   left_join(presupuesto_inflacion, by = "anio") %>%
   mutate(presupuesto_real = presupuesto * indicador_real)
+
+# Datos Jefatura
+jefatura_data <- read_csv("data.csv", show_col_types = FALSE) %>%
+  rename(
+    descripcion = Descripción,
+    anio = Año,
+    presupuesto = `Devengado Real`
+  ) %>%
+  mutate(
+    anio = as.integer(anio),
+    presupuesto = as.numeric(gsub("[^0-9]", "", presupuesto))
+  )
 
 # ============================
 # Función auxiliar para Tab 5
@@ -86,10 +99,9 @@ resumen_area <- function(datos, area_sel) {
 # UI
 # ============================
 ui <- dashboardPage(
-  title = "Dashboard Presupuesto GCBA",
   skin = "green",
   
-  dashboardHeader(title = "Análisis Presupuestario"),
+  dashboardHeader(title = "Dashboard Presupuesto GCBA"),
   
   dashboardSidebar(
     sidebarMenu(
@@ -99,35 +111,14 @@ ui <- dashboardPage(
       menuItem("Evolución", tabName = "evolucion", icon = icon("line-chart")),
       menuItem("Datos", tabName = "datos", icon = icon("table")),
       menuItem("Detalle de Área", tabName = "detalle_area", icon = icon("layer-group")),
-      menuItem("Análisis 2022-2024", tabName = "kpi", icon = icon("chart-line"))
+      menuItem("Análisis 2022-2024", tabName = "kpi", icon = icon("chart-line")),
+      menuItem("Jefatura de Gobierno", tabName = "jefatura", icon = icon("landmark")),
+      menuItem("Políticas Públicas", tabName = "politicas", icon = icon("image")) 
     ),
     selected = "inicio"
   ),
   
   dashboardBody(
-    tags$head(
-      tags$style(HTML("
-        .btn-inicio {
-          display: block;
-          margin: auto;
-          margin-top: 25vh;
-          font-size: 28px;
-          font-weight: bold;
-          padding: 20px 40px;
-          border-radius: 12px;
-          box-shadow: 0px 8px 15px rgba(0,0,0,0.3);
-          background-color: #28a745;
-          color: white;
-          transition: all 0.3s ease 0s;
-        }
-        .btn-inicio:hover {
-          background-color: #218838;
-          transform: translateY(-3px);
-          box-shadow: 0px 12px 20px rgba(0,0,0,0.35);
-        }
-      "))
-    ),
-    
     tabItems(
       # TAB 0: Inicio
       tabItem(tabName = "inicio",
@@ -135,19 +126,22 @@ ui <- dashboardPage(
                 column(12,
                        h2("Análisis Presupuestario del GCBA"),
                        box(width=12, status="success", solidHeader=TRUE,
-                           h4("¿Cuáles fueron los programas con menos financiación en 2022-2024?")
-                       ),
+                           h4("¿Cuáles fueron los programas con menos financiación en 2022-2024?")),
                        box(width=12, status="success", solidHeader=TRUE,
-                           h4("¿Cuáles fueron los de mayor financiación en 2022-2024?")
-                       ),
+                           h4("¿Cuáles fueron los de mayor financiación en 2022-2024?")),
                        box(width=12, status="success", solidHeader=TRUE,
-                           h4("¿Se modificaron competencias en la Jefatura de Gobierno?")
-                       ),
+                           h4("¿Se modificaron competencias en la Jefatura de Gobierno?")),
                        box(width=12, status="success", solidHeader=TRUE,
-                           h4("¿Qué tendencias se observan en el periodo analizado?")
-                       ),
+                           h4("¿Qué tendencias se observan en el periodo analizado?")),
                        br(),
-                       actionButton("go_presupuesto", "Ingresar al Dashboard", class="btn-inicio")
+                       div(style = "text-align:center; margin-top:20px;",
+                           actionButton("go_presupuesto", "Ingresar al Dashboard",
+                                        style = "font-size:28px; font-weight:bold; 
+                                               font-family:'DIN', Arial, Helvetica, sans-serif;
+                                               color:black;
+                                               background-color:#8FBC8F;
+                                               border:none; border-radius:12px;
+                                               padding:20px 40px;"))
                 )
               )
       ),
@@ -210,8 +204,7 @@ ui <- dashboardPage(
                 column(6,
                        selectInput("area_kpi", "Seleccionar Área:",
                                    choices = unique(presupuesto$area),
-                                   selected = unique(presupuesto$area)[1]
-                       )
+                                   selected = unique(presupuesto$area)[1])
                 )
               ),
               fluidRow(
@@ -224,9 +217,36 @@ ui <- dashboardPage(
                 box(title="Interpretación Automática", width=12, status="success",
                     textOutput("texto_kpi"))
               )
+      ),
+      
+      # TAB 6: Jefatura
+      tabItem(tabName = "jefatura",
+              fluidRow(
+                column(12, align = "center",
+                       selectInput("anio_jef", "Seleccionar Año:",
+                                   choices = sort(unique(jefatura_data$anio)),
+                                   selected = min(jefatura_data$anio),
+                                   width = "50%")
+                )
+              ),
+              br(),
+              h3("Programas de Jefatura de Gobierno"),
+              uiOutput("resumen_jefatura"),
+              br(),
+              box(title = "Análisis", width = 12, status = "info", solidHeader = TRUE,
+                  p("XXXXXXX"))
+      ),   
+      
+      # TAB 7: Políticas Públicas
+      tabItem(tabName = "politicas",
+              h2("Importancia de Políticas Públicas Basadas en Datos"),
+              fluidRow(
+                box(title = "", width = 12, status = "primary", solidHeader = TRUE,
+                    imageOutput("img_politicas", height = "600px"))
+              )
       )
-    )
-  )
+    ) # <- cierra tabItems
+  )   # <- cierra dashboardBody
 )
 
 # ============================
@@ -397,9 +417,49 @@ server <- function(input, output, session) {
            " los programas con mayor presupuesto real en 2024 fueron: ", top_nombres, 
            ". En cambio, los programas que sufrieron mayor caída o eliminación fueron: ", bottom_nombres, ".")
   })
+  
+  # ================= TAB 6: Jefatura =================
+  output$resumen_jefatura <- renderUI({
+    anio_sel <- input$anio_jef
+    
+    prev <- jefatura_data %>%
+      filter(anio < anio_sel) %>%
+      distinct(descripcion)
+    
+    actuales <- jefatura_data %>% filter(anio == anio_sel)
+    
+    nuevas <- anti_join(actuales, prev, by = "descripcion")
+    
+    if (anio_sel == min(jefatura_data$anio)) {
+      box(
+        title = paste("Programas existentes en", anio_sel),
+        width = 12, status = "success", solidHeader = TRUE,
+        HTML(paste0("<ul>", paste0("<li>", actuales$descripcion, "</li>", collapse = ""), "</ul>"))
+      )
+    } else {
+      box(
+        title = paste("Programas sumados en", anio_sel),
+        width = 12, status = "primary", solidHeader = TRUE,
+        if (nrow(nuevas) > 0) {
+          HTML(paste0("<ul>", paste0("<li>", nuevas$descripcion, "</li>", collapse = ""), "</ul>"))
+        } else {
+          p("No se sumaron programas nuevos en este año.")
+        }
+      )
+    }
+  })
+  
+  # ================= TAB 7: Políticas Públicas =================
+  output$img_politicas <- renderImage({
+    list(
+      src = "C.png",  
+      contentType = 'image/png',
+      width = "100%",
+      height = "100%",
+      alt = "Importancia de Políticas Públicas Basadas en Datos"
+    )
+  }, deleteFile = FALSE)
 }
-
-# ============================
 # Lanzar app
 # ============================
 shinyApp(ui, server)
