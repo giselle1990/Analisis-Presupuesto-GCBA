@@ -31,15 +31,27 @@ DashboardPresupuesto/
 
 📈 Visualizaciones incluidas
 
-Inicio: preguntas de investigación.
+<img width="986" height="784" alt="image" src="https://github.com/user-attachments/assets/1bc3eb8c-9702-4357-997b-4f40a1462524" />
 
-Presupuesto (por año): tarjetas clickeables por área → redirigen a detalle.
+<img width="1338" height="784" alt="image" src="https://github.com/user-attachments/assets/c804c482-22db-4518-aa13-c2f1a9f4f8db" />
 
-Detalle de área: Top 5 y Bottom 5 programas del año seleccionado.
+<img width="1678" height="841" alt="image" src="https://github.com/user-attachments/assets/fab2f3df-8d42-4ce8-ad4a-a4fb2895344d" />
 
-Evolución: Presupuesto nominal vs real.
 
-Análisis 2022–2024: Top 3 programas con mayor crecimiento y con mayor caída por área.
+- Inicio: preguntas de investigación.
+
+- Presupuesto (por año): tarjetas clickeables por área → redirigen a detalle.
+
+- Detalle de área: Top 5 y Bottom 5 programas del año seleccionado.
+
+- Evolución: Presupuesto nominal vs real.
+
+- Análisis 2022–2024: Top 3 programas con mayor crecimiento y con mayor caída por área.
+
+- Análisis de KPI encontrados
+
+-Políticas Públicas Basadas en Datos
+
 
 🛠️ Tecnologías usadas: R, Shiny, Shinydashboard, Tidyverse, PowerQuery, PowerBI. 
 
