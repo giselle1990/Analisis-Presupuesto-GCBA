@@ -31,6 +31,13 @@ DashboardPresupuesto/
 
 📈 Visualizaciones incluidas
 
+<img width="986" height="784" alt="image" src="https://github.com/user-attachments/assets/1bc3eb8c-9702-4357-997b-4f40a1462524" />
+
+<img width="1338" height="784" alt="image" src="https://github.com/user-attachments/assets/c804c482-22db-4518-aa13-c2f1a9f4f8db" />
+
+<img width="1678" height="841" alt="image" src="https://github.com/user-attachments/assets/fab2f3df-8d42-4ce8-ad4a-a4fb2895344d" />
+
+
 Inicio: preguntas de investigación.
 
 Presupuesto (por año): tarjetas clickeables por área → redirigen a detalle.
