@@ -95,6 +95,7 @@ resumen_area <- function(datos, area_sel) {
   list(top3 = top3, bottom3 = bottom3)
 }
 
+
 # ============================
 # UI
 # ============================
@@ -119,6 +120,19 @@ ui <- dashboardPage(
   ),
   
   dashboardBody(
+    tags$head(
+      tags$style(HTML("
+      .small-box {
+        border: 2px solid black !important;   /* borde negro */
+        box-shadow: 5px 5px 15px rgba(0,0,0,0.4);  /* relieve/sombra */
+        border-radius: 12px !important;       /* bordes más suaves */
+      }
+      .small-box h3 {
+        font-weight: bold;
+      }
+    "))
+    ),
+    
     tabItems(
       # TAB 0: Inicio
       tabItem(tabName = "inicio",
@@ -137,11 +151,11 @@ ui <- dashboardPage(
                        div(style = "text-align:center; margin-top:20px;",
                            actionButton("go_presupuesto", "Ingresar al Dashboard",
                                         style = "font-size:28px; font-weight:bold; 
-                                               font-family:'DIN', Arial, Helvetica, sans-serif;
-                                               color:black;
-                                               background-color:#8FBC8F;
-                                               border:none; border-radius:12px;
-                                               padding:20px 40px;"))
+                                             font-family:'DIN', Arial, Helvetica, sans-serif;
+                                             color:black;
+                                             background-color:#8FBC8F;
+                                             border:none; border-radius:12px;
+                                             padding:20px 40px;"))
                 )
               )
       ),
@@ -197,7 +211,6 @@ ui <- dashboardPage(
                     plotOutput("graf_bottom5_area"))
               )
       ),
-      
       # TAB 5: Análisis comparado 2022-2024
       tabItem(tabName = "kpi",
               fluidRow(
@@ -215,9 +228,10 @@ ui <- dashboardPage(
               ),
               fluidRow(
                 box(title="Interpretación Automática", width=12, status="success",
-                    textOutput("texto_kpi"))
+                    htmlOutput("texto_kpi"))   # 👈 cambio aquí
               )
       ),
+      
       
       # TAB 6: Jefatura
       tabItem(tabName = "jefatura",
@@ -234,22 +248,59 @@ ui <- dashboardPage(
               uiOutput("resumen_jefatura"),
               br(),
               box(title = "Análisis", width = 12, status = "info", solidHeader = TRUE,
-                  p("XXXXXXX"))
-      ),   
+                  HTML("
+              <p style='text-align:justify; font-size:16px; line-height:1.6;'>
+              El análisis de la evolución del presupuesto asignado a la 
+              <strong>Jefatura de Gobierno de la Ciudad de Buenos Aires</strong> en el período 
+              <strong>2022–2024</strong> evidencia un marcado <strong>crecimiento en la cantidad de competencias 
+              y programas bajo su órbita</strong>, acompañado de un incremento en los montos que se le asignan año tras año. 
+              Este fenómeno no resulta neutral desde el punto de vista institucional: lejos de tratarse de una mera 
+              reorganización administrativa, puede interpretarse como una estrategia orientada a 
+              <strong>concentrar funciones y recursos en un área que, según la propia Constitución de la Ciudad y la Ley N.º 70</strong>, 
+              no se encuentra sometida al mismo nivel de control externo que las demás jurisdicciones. 
+
+              <br><br>
+
+              Dicho marco normativo establece que el <strong>control del gasto público debe ser ejercido por los organismos 
+              de control autónomos de la Ciudad</strong>, con el objetivo de garantizar transparencia, eficiencia y legalidad en la gestión estatal. 
+              Sin embargo, la incorporación progresiva de nuevas competencias a la Jefatura de Gobierno termina funcionando, en los hechos, 
+              como una <em>zona de excepción al control</em>, pues al desplazarse programas y partidas presupuestarias hacia esta área 
+              se reduce el alcance real de la auditoría sobre la ejecución de los recursos públicos. 
+
+              <br><br>
+
+              A mi criterio, este crecimiento presupuestario y funcional en la Jefatura no sólo refleja una tendencia a la 
+              <strong>centralización política</strong>, sino también una forma de 
+              <strong>esquivar deliberadamente los mecanismos de fiscalización externa</strong> que la Constitución porteña había diseñado 
+              justamente para asegurar un uso responsable y transparente del dinero de la ciudadanía. 
+              </p>
+            ")
+              )
+      ),
+      
       
       # TAB 7: Políticas Públicas
       tabItem(tabName = "politicas",
               h2("Importancia de Políticas Públicas Basadas en Datos"),
               fluidRow(
-                box(title = "", width = 12, status = "primary", solidHeader = TRUE,
+                box(title = "Filmina", width = 12, status = "primary", solidHeader = TRUE,
                     imageOutput("img_politicas", height = "600px"))
-              )
+              ),
+              br(),
+              div(style = "text-align:center; margin-top:20px;",
+                  actionButton("volver_inicio_politicas", "Volver al Dashboard Principal",
+                               style = "font-size:20px; font-weight:bold; 
+                                font-family:'DIN', Arial, Helvetica, sans-serif;
+                                color:black;
+                                background-color:#8FBC8F;
+                                border:none; border-radius:12px;
+                                padding:10px 25px;"))
       )
-    ) # <- cierra tabItems
-  )   # <- cierra dashboardBody
-)
+      
+    ) # <- cierre de tabItems
+  )   # <- cierre de dashboardBody
+)     # <- cierre de dashboardPage
 
-# ============================
 # SERVER
 # ============================
 server <- function(input, output, session) {
@@ -333,7 +384,9 @@ server <- function(input, output, session) {
     top5 <- datos %>% arrange(desc(presupuesto)) %>% slice(1:5)
     
     ggplot(top5, aes(x = reorder(descripcion, presupuesto), y = presupuesto)) +
-      geom_col(fill = "steelblue") +
+      geom_col(fill = "#90EE90") +  # verde claro
+      geom_text(aes(label = scales::comma(presupuesto, big.mark=".", decimal.mark=",")), 
+                position = position_stack(vjust = 0.5), color = "black", size = 3) +
       coord_flip() +
       scale_y_continuous(labels = money_es) +
       labs(x = "Programa", y = "Presupuesto")
@@ -346,6 +399,8 @@ server <- function(input, output, session) {
     
     ggplot(bottom5, aes(x = reorder(descripcion, presupuesto), y = presupuesto)) +
       geom_col(fill = "tomato") +
+      geom_text(aes(label = scales::comma(presupuesto, big.mark=".", decimal.mark=",")), 
+                position = position_stack(vjust = 0.5), color = "black", size = 3) +
       coord_flip() +
       scale_y_continuous(labels = money_es) +
       labs(x = "Programa", y = "Presupuesto")
@@ -354,13 +409,17 @@ server <- function(input, output, session) {
   # Gráfico global
   output$graf_top5 <- renderPlot({
     top5 <- datos_filtrados() %>% arrange(desc(presupuesto)) %>% slice(1:5)
+    
     ggplot(top5, aes(x = reorder(descripcion, presupuesto), y = presupuesto)) +
-      geom_col(fill = "steelblue") +
+      geom_col(fill = "#90EE90") +  # verde claro
+      geom_text(aes(label = scales::comma(presupuesto, big.mark=".", decimal.mark=",")), 
+                position = position_stack(vjust = 0.5), color = "black", size = 3) +
       coord_flip() +
       scale_y_continuous(labels = money_es) +
       labs(title = paste("Programas con Más Presupuesto 🎉 -", input$anio),
            x = "Programa", y = "Presupuesto")
   })
+  
   
   # Evolución nominal vs real
   output$graf_evolucion <- renderPlot({
@@ -406,16 +465,30 @@ server <- function(input, output, session) {
   })
   
   # Texto interpretativo automático
-  output$texto_kpi <- renderText({
+  # Interpretación Automática con HTML
+  output$texto_kpi <- renderUI({
     datos_top <- resumen_area(presupuesto, input$area_kpi)$top3
     datos_bottom <- resumen_area(presupuesto, input$area_kpi)$bottom3
     
     top_nombres <- paste(datos_top$descripcion, collapse = ", ")
     bottom_nombres <- paste(datos_bottom$descripcion, collapse = ", ")
     
-    paste0("En el área ", input$area_kpi, 
-           " los programas con mayor presupuesto real en 2024 fueron: ", top_nombres, 
-           ". En cambio, los programas que sufrieron mayor caída o eliminación fueron: ", bottom_nombres, ".")
+    HTML(paste0(
+      "<p style='font-size:15px; line-height:1.6; text-align:justify;'>
+    El análisis del área <strong>", input$area_kpi, "</strong> en el período 2022–2024 
+    muestra un <strong>crecimiento diferencial en ciertos programas</strong>. 
+    En 2024, los programas más financiados fueron: <span style='color:darkgreen;'>", top_nombres, "</span>. 
+    Este comportamiento refleja una priorización de políticas y recursos en dichos sectores. 
+    <br><br>
+    En contraposición, se observa una <strong>caída presupuestaria significativa</strong> o incluso 
+    la eliminación de programas como: <span style='color:darkred;'>", bottom_nombres, "</span>. 
+    Este retroceso puede responder a cambios de gestión, redefinición de prioridades 
+    o estrategias de reasignación del gasto.
+    <br><br>
+    En conjunto, la evolución presupuestaria evidencia tanto las <em>apuestas políticas</em> 
+    del gobierno como las áreas relegadas en el período analizado, lo que permite 
+    comprender mejor la orientación del gasto público en la Ciudad.</p>"
+    ))
   })
   
   # ================= TAB 6: Jefatura =================
@@ -459,6 +532,9 @@ server <- function(input, output, session) {
       alt = "Importancia de Políticas Públicas Basadas en Datos"
     )
   }, deleteFile = FALSE)
+  observeEvent(input$volver_inicio_politicas, {
+    updateTabItems(session, "tabs", "montos")
+  })
 }
 # Lanzar app
 # ============================
