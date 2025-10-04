@@ -227,7 +227,7 @@ ui <- dashboardPage(
                     plotOutput("graf_bottom_kpi"))
               ),
               fluidRow(
-                box(title="Interpretación Automática", width=12, status="success",
+                box(title="Interpretación", width=12, status="success",
                     htmlOutput("texto_kpi"))   # 👈 cambio aquí
               )
       ),
